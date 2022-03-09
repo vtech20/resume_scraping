@@ -1,0 +1,2282 @@
+2022-03-09 23:54:27,080 Started processing 
+2022-03-09 23:54:46,556 Started reading the resumes from path : D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master
+2022-03-09 23:54:46,558 ****************************************
+2022-03-09 23:54:46,559 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-09 23:54:46,716 Fetching Linkedin details if any
+2022-03-09 23:54:46,722 Fetching email details if any
+2022-03-09 23:54:46,724 Fetching github details if any
+2022-03-09 23:54:46,727 Fetching skills details 
+2022-03-09 23:54:46,732 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:54:47,630 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:54:48,241 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-09 23:54:48,242 ****************************************
+2022-03-09 23:54:48,242 ****************************************
+2022-03-09 23:54:48,242 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-09 23:54:48,393 Fetching Linkedin details if any
+2022-03-09 23:54:48,395 Fetching email details if any
+2022-03-09 23:54:48,395 Fetching github details if any
+2022-03-09 23:54:48,397 Fetching skills details 
+2022-03-09 23:54:48,400 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:54:48,899 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:54:49,277 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-09 23:54:49,277 ****************************************
+2022-03-09 23:54:49,277 ****************************************
+2022-03-09 23:54:49,278 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-09 23:54:49,278 Started extracting the details from pdf
+2022-03-09 23:54:49,941 Fetching Linkedin details if any
+2022-03-09 23:54:49,946 Fetching email details if any
+2022-03-09 23:54:49,947 Fetching github details if any
+2022-03-09 23:54:49,950 Fetching skills details 
+2022-03-09 23:54:49,952 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:54:50,365 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:54:50,910 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-09 23:54:50,910 ****************************************
+2022-03-09 23:54:50,910 ****************************************
+2022-03-09 23:54:50,910 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-09 23:54:50,911 Started extracting the details from pdf
+2022-03-09 23:54:51,322 Fetching Linkedin details if any
+2022-03-09 23:54:51,323 Fetching email details if any
+2022-03-09 23:54:51,324 Fetching github details if any
+2022-03-09 23:54:51,325 Fetching skills details 
+2022-03-09 23:54:51,327 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:54:51,717 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:54:52,115 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-09 23:54:52,115 ****************************************
+2022-03-09 23:54:52,115 ****************************************
+2022-03-09 23:54:52,115 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-09 23:54:52,115 Started extracting the details from pdf
+2022-03-09 23:54:52,985 Fetching Linkedin details if any
+2022-03-09 23:54:52,995 Fetching email details if any
+2022-03-09 23:54:52,996 Fetching github details if any
+2022-03-09 23:54:52,999 Fetching skills details 
+2022-03-09 23:54:53,002 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:54:53,369 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:54:53,875 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-09 23:54:53,876 ****************************************
+2022-03-09 23:54:53,876 ****************************************
+2022-03-09 23:54:53,876 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-09 23:54:53,959 Fetching Linkedin details if any
+2022-03-09 23:54:53,961 Fetching email details if any
+2022-03-09 23:54:53,962 Fetching github details if any
+2022-03-09 23:54:53,963 Fetching skills details 
+2022-03-09 23:54:53,968 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:54:54,366 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:54:54,664 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-09 23:54:54,664 ****************************************
+2022-03-09 23:54:54,664 ****************************************
+2022-03-09 23:54:54,664 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-09 23:54:54,678 Fetching Linkedin details if any
+2022-03-09 23:54:54,679 Fetching email details if any
+2022-03-09 23:54:54,679 Fetching github details if any
+2022-03-09 23:54:54,680 Fetching skills details 
+2022-03-09 23:54:54,682 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:54:55,095 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:54:55,430 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-09 23:54:55,430 ****************************************
+2022-03-09 23:54:55,430 ****************************************
+2022-03-09 23:54:55,430 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-09 23:54:55,431 Started extracting the details from pdf
+2022-03-09 23:54:55,496 Fetching Linkedin details if any
+2022-03-09 23:54:55,496 Fetching email details if any
+2022-03-09 23:54:55,497 Fetching github details if any
+2022-03-09 23:54:55,497 Fetching skills details 
+2022-03-09 23:54:55,499 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:54:55,908 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:54:56,163 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-09 23:54:56,163 ****************************************
+2022-03-09 23:54:56,163 ****************************************
+2022-03-09 23:54:56,163 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-09 23:54:56,163 Not in either acceptable pdf or docx format
+2022-03-09 23:54:56,163 Fetching Linkedin details if any
+2022-03-09 23:54:56,164 Fetching email details if any
+2022-03-09 23:54:56,164 Fetching github details if any
+2022-03-09 23:54:56,164 Fetching skills details 
+2022-03-09 23:54:56,166 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:54:56,599 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:54:56,877 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-09 23:54:56,878 ****************************************
+2022-03-09 23:54:56,878 ****************************************
+2022-03-09 23:54:56,878 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-09 23:54:56,991 Fetching Linkedin details if any
+2022-03-09 23:54:56,993 Fetching email details if any
+2022-03-09 23:54:56,994 Fetching github details if any
+2022-03-09 23:54:56,995 Fetching skills details 
+2022-03-09 23:54:56,997 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:54:57,422 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:54:57,842 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-09 23:54:57,842 ****************************************
+2022-03-09 23:54:57,842 ****************************************
+2022-03-09 23:54:57,842 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-09 23:54:57,842 Started extracting the details from pdf
+2022-03-09 23:54:57,912 Fetching Linkedin details if any
+2022-03-09 23:54:57,913 Fetching email details if any
+2022-03-09 23:54:57,913 Fetching github details if any
+2022-03-09 23:54:57,913 Fetching skills details 
+2022-03-09 23:54:57,916 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:54:58,359 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:54:58,610 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-09 23:54:58,610 ****************************************
+2022-03-09 23:54:58,610 ****************************************
+2022-03-09 23:54:58,610 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-09 23:54:58,610 Started extracting the details from pdf
+2022-03-09 23:54:58,687 Fetching Linkedin details if any
+2022-03-09 23:54:58,687 Fetching email details if any
+2022-03-09 23:54:58,687 Fetching github details if any
+2022-03-09 23:54:58,687 Fetching skills details 
+2022-03-09 23:54:58,690 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:54:59,094 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:54:59,389 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-09 23:54:59,389 ****************************************
+2022-03-09 23:54:59,389 ****************************************
+2022-03-09 23:54:59,389 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-09 23:54:59,389 Started extracting the details from pdf
+2022-03-09 23:54:59,892 Fetching Linkedin details if any
+2022-03-09 23:54:59,893 Fetching email details if any
+2022-03-09 23:54:59,893 Fetching github details if any
+2022-03-09 23:54:59,893 Fetching skills details 
+2022-03-09 23:54:59,896 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:55:00,505 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:55:00,876 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-09 23:55:00,876 ****************************************
+2022-03-09 23:55:00,876 ****************************************
+2022-03-09 23:55:00,877 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-09 23:55:00,877 Started extracting the details from pdf
+2022-03-09 23:55:01,971 Fetching Linkedin details if any
+2022-03-09 23:55:01,971 Fetching email details if any
+2022-03-09 23:55:01,971 Fetching github details if any
+2022-03-09 23:55:01,971 Fetching skills details 
+2022-03-09 23:55:01,977 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:55:02,614 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:55:02,934 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-09 23:55:02,934 ****************************************
+2022-03-09 23:55:02,934 ****************************************
+2022-03-09 23:55:02,934 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-09 23:55:02,934 Started extracting the details from pdf
+2022-03-09 23:55:03,503 Fetching Linkedin details if any
+2022-03-09 23:55:03,503 Fetching email details if any
+2022-03-09 23:55:03,503 Fetching github details if any
+2022-03-09 23:55:03,504 Fetching skills details 
+2022-03-09 23:55:03,507 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:55:04,221 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:55:04,601 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-09 23:55:04,602 ****************************************
+2022-03-09 23:55:04,602 ****************************************
+2022-03-09 23:55:04,602 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-09 23:55:04,704 Fetching Linkedin details if any
+2022-03-09 23:55:04,705 Fetching email details if any
+2022-03-09 23:55:04,706 Fetching github details if any
+2022-03-09 23:55:04,707 Fetching skills details 
+2022-03-09 23:55:04,709 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:55:05,443 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:55:06,007 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-09 23:55:06,007 ****************************************
+2022-03-09 23:55:06,007 ****************************************
+2022-03-09 23:55:06,007 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-09 23:55:06,007 Started extracting the details from pdf
+2022-03-09 23:55:06,081 Fetching Linkedin details if any
+2022-03-09 23:55:06,081 Fetching email details if any
+2022-03-09 23:55:06,081 Fetching github details if any
+2022-03-09 23:55:06,082 Fetching skills details 
+2022-03-09 23:55:06,085 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:55:06,812 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:55:07,277 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-09 23:55:07,277 ****************************************
+2022-03-09 23:55:07,278 ****************************************
+2022-03-09 23:55:07,278 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-09 23:55:07,278 Started extracting the details from pdf
+2022-03-09 23:55:07,464 Fetching Linkedin details if any
+2022-03-09 23:55:07,465 Fetching email details if any
+2022-03-09 23:55:07,466 Fetching github details if any
+2022-03-09 23:55:07,467 Fetching skills details 
+2022-03-09 23:55:07,471 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:55:08,247 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:55:08,760 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-09 23:55:08,760 ****************************************
+2022-03-09 23:55:08,760 ****************************************
+2022-03-09 23:55:08,760 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-09 23:55:08,760 Not in either acceptable pdf or docx format
+2022-03-09 23:55:08,760 Fetching Linkedin details if any
+2022-03-09 23:55:08,761 Fetching email details if any
+2022-03-09 23:55:08,762 Fetching github details if any
+2022-03-09 23:55:08,762 Fetching skills details 
+2022-03-09 23:55:08,765 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:55:09,190 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:55:09,562 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-09 23:55:09,562 ****************************************
+2022-03-09 23:55:09,562 ****************************************
+2022-03-09 23:55:09,562 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-09 23:55:09,562 Started extracting the details from pdf
+2022-03-09 23:55:09,583 Fetching Linkedin details if any
+2022-03-09 23:55:09,583 Fetching email details if any
+2022-03-09 23:55:09,583 Fetching github details if any
+2022-03-09 23:55:09,583 Fetching skills details 
+2022-03-09 23:55:09,585 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-09 23:55:10,046 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-09 23:55:10,332 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-09 23:55:10,333 ****************************************
+2022-03-10 00:18:11,588 Started processing 
+2022-03-10 00:18:22,556 Started reading the resumes from path : D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master
+2022-03-10 00:18:22,560 ****************************************
+2022-03-10 00:18:22,560 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:18:22,717 Fetching Linkedin details if any
+2022-03-10 00:18:22,720 Fetching email details if any
+2022-03-10 00:18:22,722 Fetching github details if any
+2022-03-10 00:18:22,724 Fetching skills details 
+2022-03-10 00:18:22,728 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:23,629 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:24,348 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:18:24,349 ****************************************
+2022-03-10 00:18:24,349 ****************************************
+2022-03-10 00:18:24,349 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:18:24,383 Fetching Linkedin details if any
+2022-03-10 00:18:24,385 Fetching email details if any
+2022-03-10 00:18:24,385 Fetching github details if any
+2022-03-10 00:18:24,386 Fetching skills details 
+2022-03-10 00:18:24,388 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:24,807 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:25,157 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:18:25,157 ****************************************
+2022-03-10 00:18:25,157 ****************************************
+2022-03-10 00:18:25,157 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:18:25,157 Started extracting the details from pdf
+2022-03-10 00:18:25,620 Fetching Linkedin details if any
+2022-03-10 00:18:25,624 Fetching email details if any
+2022-03-10 00:18:25,625 Fetching github details if any
+2022-03-10 00:18:25,628 Fetching skills details 
+2022-03-10 00:18:25,630 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:26,122 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:26,700 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:18:26,700 ****************************************
+2022-03-10 00:18:26,700 ****************************************
+2022-03-10 00:18:26,700 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:18:26,700 Started extracting the details from pdf
+2022-03-10 00:18:27,242 Fetching Linkedin details if any
+2022-03-10 00:18:27,244 Fetching email details if any
+2022-03-10 00:18:27,244 Fetching github details if any
+2022-03-10 00:18:27,245 Fetching skills details 
+2022-03-10 00:18:27,248 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:27,660 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:28,049 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:18:28,049 ****************************************
+2022-03-10 00:18:28,049 ****************************************
+2022-03-10 00:18:28,049 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:18:28,049 Started extracting the details from pdf
+2022-03-10 00:18:28,838 Fetching Linkedin details if any
+2022-03-10 00:18:28,841 Fetching email details if any
+2022-03-10 00:18:28,842 Fetching github details if any
+2022-03-10 00:18:28,846 Fetching skills details 
+2022-03-10 00:18:28,849 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:29,230 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:29,740 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:18:29,740 ****************************************
+2022-03-10 00:18:29,740 ****************************************
+2022-03-10 00:18:29,740 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:18:29,753 Fetching Linkedin details if any
+2022-03-10 00:18:29,754 Fetching email details if any
+2022-03-10 00:18:29,754 Fetching github details if any
+2022-03-10 00:18:29,754 Fetching skills details 
+2022-03-10 00:18:29,757 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:30,195 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:30,510 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:18:30,510 ****************************************
+2022-03-10 00:18:30,510 ****************************************
+2022-03-10 00:18:30,510 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:18:30,524 Fetching Linkedin details if any
+2022-03-10 00:18:30,524 Fetching email details if any
+2022-03-10 00:18:30,525 Fetching github details if any
+2022-03-10 00:18:30,525 Fetching skills details 
+2022-03-10 00:18:30,528 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:31,139 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:31,580 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:18:31,580 ****************************************
+2022-03-10 00:18:31,580 ****************************************
+2022-03-10 00:18:31,580 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:18:31,580 Started extracting the details from pdf
+2022-03-10 00:18:31,622 Fetching Linkedin details if any
+2022-03-10 00:18:31,622 Fetching email details if any
+2022-03-10 00:18:31,622 Fetching github details if any
+2022-03-10 00:18:31,622 Fetching skills details 
+2022-03-10 00:18:31,624 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:32,030 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:32,299 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:18:32,299 ****************************************
+2022-03-10 00:18:32,299 ****************************************
+2022-03-10 00:18:32,299 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:18:32,330 Exception occured at the time of extracting from Doc"There is no item named 'word/document.xml' in the archive"
+Traceback (most recent call last):
+  File "D:\resume-matching-assigning\resume_util.py", line 44, in extract_text_from_docx
+    txt = docx2txt.process(docx_path)
+  File "C:\Users\Admin\anaconda3\lib\site-packages\docx2txt\docx2txt.py", line 88, in process
+    text += xml2text(zipf.read(doc_xml))
+  File "C:\Users\Admin\anaconda3\lib\zipfile.py", line 1474, in read
+    with self.open(name, "r", pwd) as fp:
+  File "C:\Users\Admin\anaconda3\lib\zipfile.py", line 1513, in open
+    zinfo = self.getinfo(name)
+  File "C:\Users\Admin\anaconda3\lib\zipfile.py", line 1440, in getinfo
+    raise KeyError(
+KeyError: "There is no item named 'word/document.xml' in the archive"
+2022-03-10 00:18:32,352 Fetching Linkedin details if any
+2022-03-10 00:18:32,352 Exception occured at the time of extracting linkedin detailsexpected string or bytes-like object
+Traceback (most recent call last):
+  File "D:\resume-matching-assigning\resume_util.py", line 57, in extract_linkedin
+    l1 = re.findall(lreg1,text)
+  File "C:\Users\Admin\anaconda3\lib\re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+2022-03-10 00:18:32,355 Fetching email details if any
+2022-03-10 00:18:32,355 Exception occured at the time of extracting email detailsexpected string or bytes-like object
+Traceback (most recent call last):
+  File "D:\resume-matching-assigning\resume_util.py", line 71, in extract_email
+    l = re.findall(EMAIL_REG, text)
+  File "C:\Users\Admin\anaconda3\lib\re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+2022-03-10 00:18:32,356 Fetching github details if any
+2022-03-10 00:18:32,356 Exception occured at the time of extracting github from resumeexpected string or bytes-like object
+Traceback (most recent call last):
+  File "D:\resume-matching-assigning\resume_util.py", line 112, in extract_github
+    g1 = re.findall(gitusr,text)
+  File "C:\Users\Admin\anaconda3\lib\re.py", line 241, in findall
+    return _compile(pattern, flags).findall(string)
+TypeError: expected string or bytes-like object
+2022-03-10 00:18:32,357 Fetching skills details 
+2022-03-10 00:18:32,364 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:32,799 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:33,092 Exception occured at the time of extracting skill from resumeexpected string or bytes-like object
+Traceback (most recent call last):
+  File "D:\resume-matching-assigning\resume_util.py", line 93, in extract_skills
+    word_tokens = nltk.tokenize.word_tokenize(text)
+  File "C:\Users\Admin\anaconda3\lib\site-packages\nltk\tokenize\__init__.py", line 129, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+  File "C:\Users\Admin\anaconda3\lib\site-packages\nltk\tokenize\__init__.py", line 107, in sent_tokenize
+    return tokenizer.tokenize(text)
+  File "C:\Users\Admin\anaconda3\lib\site-packages\nltk\tokenize\punkt.py", line 1272, in tokenize
+    return list(self.sentences_from_text(text, realign_boundaries))
+  File "C:\Users\Admin\anaconda3\lib\site-packages\nltk\tokenize\punkt.py", line 1326, in sentences_from_text
+    return [text[s:e] for s, e in self.span_tokenize(text, realign_boundaries)]
+  File "C:\Users\Admin\anaconda3\lib\site-packages\nltk\tokenize\punkt.py", line 1326, in <listcomp>
+    return [text[s:e] for s, e in self.span_tokenize(text, realign_boundaries)]
+  File "C:\Users\Admin\anaconda3\lib\site-packages\nltk\tokenize\punkt.py", line 1316, in span_tokenize
+    for sl in slices:
+  File "C:\Users\Admin\anaconda3\lib\site-packages\nltk\tokenize\punkt.py", line 1357, in _realign_boundaries
+    for sl1, sl2 in _pair_iter(slices):
+  File "C:\Users\Admin\anaconda3\lib\site-packages\nltk\tokenize\punkt.py", line 314, in _pair_iter
+    prev = next(it)
+  File "C:\Users\Admin\anaconda3\lib\site-packages\nltk\tokenize\punkt.py", line 1330, in _slices_from_text
+    for match in self._lang_vars.period_context_re().finditer(text):
+TypeError: expected string or bytes-like object
+2022-03-10 00:18:33,110 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:18:33,110 ****************************************
+2022-03-10 00:18:33,110 ****************************************
+2022-03-10 00:18:33,111 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:18:33,159 Fetching Linkedin details if any
+2022-03-10 00:18:33,160 Fetching email details if any
+2022-03-10 00:18:33,161 Fetching github details if any
+2022-03-10 00:18:33,162 Fetching skills details 
+2022-03-10 00:18:33,165 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:33,565 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:33,914 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:18:33,914 ****************************************
+2022-03-10 00:18:33,914 ****************************************
+2022-03-10 00:18:33,915 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:18:33,915 Started extracting the details from pdf
+2022-03-10 00:18:33,955 Fetching Linkedin details if any
+2022-03-10 00:18:33,955 Fetching email details if any
+2022-03-10 00:18:33,955 Fetching github details if any
+2022-03-10 00:18:33,955 Fetching skills details 
+2022-03-10 00:18:33,958 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:34,358 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:34,618 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:18:34,618 ****************************************
+2022-03-10 00:18:34,618 ****************************************
+2022-03-10 00:18:34,618 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:18:34,618 Started extracting the details from pdf
+2022-03-10 00:18:34,688 Fetching Linkedin details if any
+2022-03-10 00:18:34,688 Fetching email details if any
+2022-03-10 00:18:34,688 Fetching github details if any
+2022-03-10 00:18:34,689 Fetching skills details 
+2022-03-10 00:18:34,692 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:35,102 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:35,369 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:18:35,369 ****************************************
+2022-03-10 00:18:35,369 ****************************************
+2022-03-10 00:18:35,369 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:18:35,370 Started extracting the details from pdf
+2022-03-10 00:18:36,028 Fetching Linkedin details if any
+2022-03-10 00:18:36,028 Fetching email details if any
+2022-03-10 00:18:36,028 Fetching github details if any
+2022-03-10 00:18:36,028 Fetching skills details 
+2022-03-10 00:18:36,030 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:36,447 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:36,737 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:18:36,737 ****************************************
+2022-03-10 00:18:36,738 ****************************************
+2022-03-10 00:18:36,738 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:18:36,738 Started extracting the details from pdf
+2022-03-10 00:18:37,455 Fetching Linkedin details if any
+2022-03-10 00:18:37,456 Fetching email details if any
+2022-03-10 00:18:37,456 Fetching github details if any
+2022-03-10 00:18:37,456 Fetching skills details 
+2022-03-10 00:18:37,459 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:37,934 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:38,236 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:18:38,237 ****************************************
+2022-03-10 00:18:38,237 ****************************************
+2022-03-10 00:18:38,237 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:18:38,237 Started extracting the details from pdf
+2022-03-10 00:18:38,759 Fetching Linkedin details if any
+2022-03-10 00:18:38,759 Fetching email details if any
+2022-03-10 00:18:38,759 Fetching github details if any
+2022-03-10 00:18:38,759 Fetching skills details 
+2022-03-10 00:18:38,762 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:39,142 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:39,410 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:18:39,410 ****************************************
+2022-03-10 00:18:39,410 ****************************************
+2022-03-10 00:18:39,410 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:18:39,487 Fetching Linkedin details if any
+2022-03-10 00:18:39,489 Fetching email details if any
+2022-03-10 00:18:39,490 Fetching github details if any
+2022-03-10 00:18:39,491 Fetching skills details 
+2022-03-10 00:18:39,494 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:39,930 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:40,290 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:18:40,290 ****************************************
+2022-03-10 00:18:40,291 ****************************************
+2022-03-10 00:18:40,291 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:18:40,291 Started extracting the details from pdf
+2022-03-10 00:18:40,368 Fetching Linkedin details if any
+2022-03-10 00:18:40,368 Fetching email details if any
+2022-03-10 00:18:40,368 Fetching github details if any
+2022-03-10 00:18:40,368 Fetching skills details 
+2022-03-10 00:18:40,374 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:41,028 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:41,362 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:18:41,362 ****************************************
+2022-03-10 00:18:41,362 ****************************************
+2022-03-10 00:18:41,362 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:18:41,363 Started extracting the details from pdf
+2022-03-10 00:18:41,547 Fetching Linkedin details if any
+2022-03-10 00:18:41,548 Fetching email details if any
+2022-03-10 00:18:41,548 Fetching github details if any
+2022-03-10 00:18:41,549 Fetching skills details 
+2022-03-10 00:18:41,551 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:41,961 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:42,286 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:18:42,286 ****************************************
+2022-03-10 00:18:42,286 ****************************************
+2022-03-10 00:18:42,286 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:18:42,286 Not in either acceptable pdf or docx format
+2022-03-10 00:18:42,286 Fetching Linkedin details if any
+2022-03-10 00:18:42,287 Fetching email details if any
+2022-03-10 00:18:42,287 Fetching github details if any
+2022-03-10 00:18:42,288 Fetching skills details 
+2022-03-10 00:18:42,291 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:42,664 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:42,956 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:18:42,957 ****************************************
+2022-03-10 00:18:42,957 ****************************************
+2022-03-10 00:18:42,957 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:18:42,957 Started extracting the details from pdf
+2022-03-10 00:18:43,045 Fetching Linkedin details if any
+2022-03-10 00:18:43,045 Fetching email details if any
+2022-03-10 00:18:43,045 Fetching github details if any
+2022-03-10 00:18:43,046 Fetching skills details 
+2022-03-10 00:18:43,052 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:18:43,443 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:18:43,746 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:18:43,746 ****************************************
+2022-03-10 00:32:22,665 Started processing 
+2022-03-10 00:32:39,263 Started reading the resumes from path : D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master
+2022-03-10 00:32:39,266 ****************************************
+2022-03-10 00:32:39,266 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:32:39,382 Fetching Linkedin details if any
+2022-03-10 00:32:39,387 Fetching email details if any
+2022-03-10 00:32:39,389 Fetching github details if any
+2022-03-10 00:32:39,390 Fetching skills details 
+2022-03-10 00:32:39,394 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:40,211 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:40,726 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:32:40,726 ****************************************
+2022-03-10 00:32:40,727 ****************************************
+2022-03-10 00:32:40,727 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:32:40,756 Fetching Linkedin details if any
+2022-03-10 00:32:40,758 Fetching email details if any
+2022-03-10 00:32:40,758 Fetching github details if any
+2022-03-10 00:32:40,759 Fetching skills details 
+2022-03-10 00:32:40,761 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:41,399 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:41,884 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:32:41,885 ****************************************
+2022-03-10 00:32:41,885 ****************************************
+2022-03-10 00:32:41,885 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:32:41,885 Started extracting the details from pdf
+2022-03-10 00:32:42,440 Fetching Linkedin details if any
+2022-03-10 00:32:42,444 Fetching email details if any
+2022-03-10 00:32:42,445 Fetching github details if any
+2022-03-10 00:32:42,447 Fetching skills details 
+2022-03-10 00:32:42,449 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:42,803 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:43,293 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:32:43,293 ****************************************
+2022-03-10 00:32:43,293 ****************************************
+2022-03-10 00:32:43,293 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:32:43,293 Started extracting the details from pdf
+2022-03-10 00:32:43,735 Fetching Linkedin details if any
+2022-03-10 00:32:43,737 Fetching email details if any
+2022-03-10 00:32:43,737 Fetching github details if any
+2022-03-10 00:32:43,738 Fetching skills details 
+2022-03-10 00:32:43,740 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:44,150 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:44,510 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:32:44,510 ****************************************
+2022-03-10 00:32:44,510 ****************************************
+2022-03-10 00:32:44,510 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:32:44,510 Started extracting the details from pdf
+2022-03-10 00:32:45,312 Fetching Linkedin details if any
+2022-03-10 00:32:45,316 Fetching email details if any
+2022-03-10 00:32:45,316 Fetching github details if any
+2022-03-10 00:32:45,317 Fetching skills details 
+2022-03-10 00:32:45,320 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:45,723 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:46,239 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:32:46,239 ****************************************
+2022-03-10 00:32:46,239 ****************************************
+2022-03-10 00:32:46,239 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:32:46,255 Fetching Linkedin details if any
+2022-03-10 00:32:46,255 Fetching email details if any
+2022-03-10 00:32:46,256 Fetching github details if any
+2022-03-10 00:32:46,256 Fetching skills details 
+2022-03-10 00:32:46,259 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:46,664 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:47,013 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:32:47,014 ****************************************
+2022-03-10 00:32:47,014 ****************************************
+2022-03-10 00:32:47,014 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:32:47,028 Fetching Linkedin details if any
+2022-03-10 00:32:47,028 Fetching email details if any
+2022-03-10 00:32:47,028 Fetching github details if any
+2022-03-10 00:32:47,029 Fetching skills details 
+2022-03-10 00:32:47,031 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:47,584 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:47,999 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:32:48,000 ****************************************
+2022-03-10 00:32:48,000 ****************************************
+2022-03-10 00:32:48,000 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:32:48,000 Started extracting the details from pdf
+2022-03-10 00:32:48,042 Fetching Linkedin details if any
+2022-03-10 00:32:48,042 Fetching email details if any
+2022-03-10 00:32:48,042 Fetching github details if any
+2022-03-10 00:32:48,042 Fetching skills details 
+2022-03-10 00:32:48,045 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:48,503 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:48,772 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:32:48,772 ****************************************
+2022-03-10 00:32:48,772 ****************************************
+2022-03-10 00:32:48,772 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:32:48,772 Not in either acceptable pdf or docx format
+2022-03-10 00:32:48,773 Fetching Linkedin details if any
+2022-03-10 00:32:48,773 Fetching email details if any
+2022-03-10 00:32:48,773 Fetching github details if any
+2022-03-10 00:32:48,773 Fetching skills details 
+2022-03-10 00:32:48,776 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:49,185 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:49,414 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:32:49,414 ****************************************
+2022-03-10 00:32:49,415 ****************************************
+2022-03-10 00:32:49,415 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:32:49,480 Fetching Linkedin details if any
+2022-03-10 00:32:49,485 Fetching email details if any
+2022-03-10 00:32:49,486 Fetching github details if any
+2022-03-10 00:32:49,487 Fetching skills details 
+2022-03-10 00:32:49,492 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:50,112 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:50,590 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:32:50,591 ****************************************
+2022-03-10 00:32:50,591 ****************************************
+2022-03-10 00:32:50,591 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:32:50,591 Started extracting the details from pdf
+2022-03-10 00:32:50,643 Fetching Linkedin details if any
+2022-03-10 00:32:50,644 Fetching email details if any
+2022-03-10 00:32:50,644 Fetching github details if any
+2022-03-10 00:32:50,644 Fetching skills details 
+2022-03-10 00:32:50,646 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:51,027 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:51,263 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:32:51,263 ****************************************
+2022-03-10 00:32:51,263 ****************************************
+2022-03-10 00:32:51,263 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:32:51,263 Started extracting the details from pdf
+2022-03-10 00:32:51,363 Fetching Linkedin details if any
+2022-03-10 00:32:51,364 Fetching email details if any
+2022-03-10 00:32:51,364 Fetching github details if any
+2022-03-10 00:32:51,364 Fetching skills details 
+2022-03-10 00:32:51,370 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:51,836 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:52,091 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:32:52,091 ****************************************
+2022-03-10 00:32:52,091 ****************************************
+2022-03-10 00:32:52,092 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:32:52,092 Started extracting the details from pdf
+2022-03-10 00:32:52,694 Fetching Linkedin details if any
+2022-03-10 00:32:52,694 Fetching email details if any
+2022-03-10 00:32:52,694 Fetching github details if any
+2022-03-10 00:32:52,694 Fetching skills details 
+2022-03-10 00:32:52,697 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:53,161 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:53,426 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:32:53,426 ****************************************
+2022-03-10 00:32:53,426 ****************************************
+2022-03-10 00:32:53,426 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:32:53,426 Started extracting the details from pdf
+2022-03-10 00:32:54,159 Fetching Linkedin details if any
+2022-03-10 00:32:54,159 Fetching email details if any
+2022-03-10 00:32:54,159 Fetching github details if any
+2022-03-10 00:32:54,159 Fetching skills details 
+2022-03-10 00:32:54,162 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:54,577 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:54,812 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:32:54,812 ****************************************
+2022-03-10 00:32:54,813 ****************************************
+2022-03-10 00:32:54,813 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:32:54,813 Started extracting the details from pdf
+2022-03-10 00:32:55,255 Fetching Linkedin details if any
+2022-03-10 00:32:55,255 Fetching email details if any
+2022-03-10 00:32:55,255 Fetching github details if any
+2022-03-10 00:32:55,255 Fetching skills details 
+2022-03-10 00:32:55,258 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:55,677 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:55,929 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:32:55,929 ****************************************
+2022-03-10 00:32:55,930 ****************************************
+2022-03-10 00:32:55,930 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:32:55,973 Fetching Linkedin details if any
+2022-03-10 00:32:55,974 Fetching email details if any
+2022-03-10 00:32:55,975 Fetching github details if any
+2022-03-10 00:32:55,975 Fetching skills details 
+2022-03-10 00:32:55,978 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:56,360 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:56,767 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:32:56,767 ****************************************
+2022-03-10 00:32:56,767 ****************************************
+2022-03-10 00:32:56,767 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:32:56,767 Started extracting the details from pdf
+2022-03-10 00:32:56,771 Fetching Linkedin details if any
+2022-03-10 00:32:56,771 Fetching email details if any
+2022-03-10 00:32:56,771 Fetching github details if any
+2022-03-10 00:32:56,771 Fetching skills details 
+2022-03-10 00:32:56,774 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:57,265 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:57,554 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:32:57,554 ****************************************
+2022-03-10 00:32:57,555 ****************************************
+2022-03-10 00:32:57,555 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:32:57,555 Started extracting the details from pdf
+2022-03-10 00:32:57,715 Fetching Linkedin details if any
+2022-03-10 00:32:57,717 Fetching email details if any
+2022-03-10 00:32:57,717 Fetching github details if any
+2022-03-10 00:32:57,717 Fetching skills details 
+2022-03-10 00:32:57,721 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:58,096 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:58,384 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:32:58,384 ****************************************
+2022-03-10 00:32:58,384 ****************************************
+2022-03-10 00:32:58,384 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:32:58,384 Not in either acceptable pdf or docx format
+2022-03-10 00:32:58,384 Fetching Linkedin details if any
+2022-03-10 00:32:58,385 Fetching email details if any
+2022-03-10 00:32:58,385 Fetching github details if any
+2022-03-10 00:32:58,385 Fetching skills details 
+2022-03-10 00:32:58,388 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:58,909 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:32:59,290 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:32:59,290 ****************************************
+2022-03-10 00:32:59,290 ****************************************
+2022-03-10 00:32:59,290 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:32:59,290 Started extracting the details from pdf
+2022-03-10 00:32:59,335 Fetching Linkedin details if any
+2022-03-10 00:32:59,335 Fetching email details if any
+2022-03-10 00:32:59,335 Fetching github details if any
+2022-03-10 00:32:59,336 Fetching skills details 
+2022-03-10 00:32:59,338 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:32:59,947 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:33:00,278 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:33:00,278 ****************************************
+2022-03-10 00:33:00,283 Exception occurred during operations
+Traceback (most recent call last):
+  File "D:\resume-matching-assigning\main_program.py", line 76, in <module>
+    final_database['comments'] = comm
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\core\frame.py", line 3655, in __setitem__
+    self._set_item(key, value)
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\core\frame.py", line 3832, in _set_item
+    value = self._sanitize_column(value)
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\core\frame.py", line 4529, in _sanitize_column
+    com.require_length_match(value, self.index)
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\core\common.py", line 557, in require_length_match
+    raise ValueError(
+ValueError: Length of values (18) does not match length of index (20)
+2022-03-10 00:35:29,344 Started processing 
+2022-03-10 00:35:44,401 Started reading the resumes from path : D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master
+2022-03-10 00:35:44,404 ****************************************
+2022-03-10 00:35:44,404 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:35:44,457 Fetching Linkedin details if any
+2022-03-10 00:35:44,461 Fetching email details if any
+2022-03-10 00:35:44,463 Fetching github details if any
+2022-03-10 00:35:44,464 Fetching skills details 
+2022-03-10 00:35:44,467 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:35:44,886 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:35:45,437 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:35:45,438 ****************************************
+2022-03-10 00:35:45,438 ****************************************
+2022-03-10 00:35:45,438 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:35:45,477 Fetching Linkedin details if any
+2022-03-10 00:35:45,478 Fetching email details if any
+2022-03-10 00:35:45,479 Fetching github details if any
+2022-03-10 00:35:45,480 Fetching skills details 
+2022-03-10 00:35:45,483 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:35:45,895 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:35:46,228 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:35:46,228 ****************************************
+2022-03-10 00:35:46,228 ****************************************
+2022-03-10 00:35:46,228 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:35:46,228 Started extracting the details from pdf
+2022-03-10 00:35:46,787 Fetching Linkedin details if any
+2022-03-10 00:35:46,791 Fetching email details if any
+2022-03-10 00:35:46,793 Fetching github details if any
+2022-03-10 00:35:46,794 Fetching skills details 
+2022-03-10 00:35:46,797 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:35:47,193 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:35:47,793 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:35:47,793 ****************************************
+2022-03-10 00:35:47,793 ****************************************
+2022-03-10 00:35:47,793 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:35:47,793 Started extracting the details from pdf
+2022-03-10 00:35:48,221 Fetching Linkedin details if any
+2022-03-10 00:35:48,225 Fetching email details if any
+2022-03-10 00:35:48,225 Fetching github details if any
+2022-03-10 00:35:48,226 Fetching skills details 
+2022-03-10 00:35:48,229 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:35:48,621 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:35:49,041 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:35:49,041 ****************************************
+2022-03-10 00:35:49,041 ****************************************
+2022-03-10 00:35:49,041 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:35:49,042 Started extracting the details from pdf
+2022-03-10 00:35:49,811 Fetching Linkedin details if any
+2022-03-10 00:35:49,814 Fetching email details if any
+2022-03-10 00:35:49,815 Fetching github details if any
+2022-03-10 00:35:49,816 Fetching skills details 
+2022-03-10 00:35:49,819 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:35:50,300 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:35:50,848 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:35:50,849 ****************************************
+2022-03-10 00:35:50,849 ****************************************
+2022-03-10 00:35:50,849 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:35:50,862 Fetching Linkedin details if any
+2022-03-10 00:35:50,862 Fetching email details if any
+2022-03-10 00:35:50,863 Fetching github details if any
+2022-03-10 00:35:50,863 Fetching skills details 
+2022-03-10 00:35:50,867 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:35:51,309 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:35:51,601 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:35:51,601 ****************************************
+2022-03-10 00:35:51,601 ****************************************
+2022-03-10 00:35:51,601 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:35:51,612 Fetching Linkedin details if any
+2022-03-10 00:35:51,613 Fetching email details if any
+2022-03-10 00:35:51,613 Fetching github details if any
+2022-03-10 00:35:51,613 Fetching skills details 
+2022-03-10 00:35:51,616 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:35:52,458 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:35:53,015 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:35:53,015 ****************************************
+2022-03-10 00:35:53,015 ****************************************
+2022-03-10 00:35:53,015 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:35:53,016 Started extracting the details from pdf
+2022-03-10 00:35:53,085 Fetching Linkedin details if any
+2022-03-10 00:35:53,085 Fetching email details if any
+2022-03-10 00:35:53,085 Fetching github details if any
+2022-03-10 00:35:53,085 Fetching skills details 
+2022-03-10 00:35:53,089 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:35:53,497 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:35:53,800 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:35:53,800 ****************************************
+2022-03-10 00:35:53,800 ****************************************
+2022-03-10 00:35:53,800 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:35:53,800 Not in either acceptable pdf or docx format
+2022-03-10 00:35:53,800 Fetching Linkedin details if any
+2022-03-10 00:35:53,801 Fetching email details if any
+2022-03-10 00:35:53,801 Fetching github details if any
+2022-03-10 00:35:53,801 Fetching skills details 
+2022-03-10 00:35:53,803 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:35:54,197 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:35:54,512 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:35:54,513 ****************************************
+2022-03-10 00:35:54,513 ****************************************
+2022-03-10 00:35:54,513 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:35:54,557 Fetching Linkedin details if any
+2022-03-10 00:35:54,559 Fetching email details if any
+2022-03-10 00:35:54,559 Fetching github details if any
+2022-03-10 00:35:54,560 Fetching skills details 
+2022-03-10 00:35:54,563 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:35:54,987 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:35:55,397 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:35:55,397 ****************************************
+2022-03-10 00:35:55,397 ****************************************
+2022-03-10 00:35:55,398 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:35:55,398 Started extracting the details from pdf
+2022-03-10 00:35:55,436 Fetching Linkedin details if any
+2022-03-10 00:35:55,436 Fetching email details if any
+2022-03-10 00:35:55,436 Fetching github details if any
+2022-03-10 00:35:55,436 Fetching skills details 
+2022-03-10 00:35:55,439 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:35:55,828 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:35:56,089 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:35:56,089 ****************************************
+2022-03-10 00:35:56,089 ****************************************
+2022-03-10 00:35:56,089 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:35:56,089 Started extracting the details from pdf
+2022-03-10 00:35:56,142 Fetching Linkedin details if any
+2022-03-10 00:35:56,143 Fetching email details if any
+2022-03-10 00:35:56,143 Fetching github details if any
+2022-03-10 00:35:56,143 Fetching skills details 
+2022-03-10 00:35:56,146 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:35:56,591 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:35:56,859 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:35:56,859 ****************************************
+2022-03-10 00:35:56,859 ****************************************
+2022-03-10 00:35:56,860 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:35:56,860 Started extracting the details from pdf
+2022-03-10 00:35:57,408 Fetching Linkedin details if any
+2022-03-10 00:35:57,408 Fetching email details if any
+2022-03-10 00:35:57,408 Fetching github details if any
+2022-03-10 00:35:57,408 Fetching skills details 
+2022-03-10 00:35:57,411 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:35:57,795 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:35:58,096 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:35:58,096 ****************************************
+2022-03-10 00:35:58,096 ****************************************
+2022-03-10 00:35:58,096 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:35:58,096 Started extracting the details from pdf
+2022-03-10 00:35:58,848 Fetching Linkedin details if any
+2022-03-10 00:35:58,849 Fetching email details if any
+2022-03-10 00:35:58,849 Fetching github details if any
+2022-03-10 00:35:58,849 Fetching skills details 
+2022-03-10 00:35:58,851 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:35:59,308 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:35:59,761 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:35:59,762 ****************************************
+2022-03-10 00:35:59,762 ****************************************
+2022-03-10 00:35:59,762 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:35:59,762 Started extracting the details from pdf
+2022-03-10 00:36:00,233 Fetching Linkedin details if any
+2022-03-10 00:36:00,234 Fetching email details if any
+2022-03-10 00:36:00,234 Fetching github details if any
+2022-03-10 00:36:00,234 Fetching skills details 
+2022-03-10 00:36:00,237 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:36:00,651 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:36:00,883 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:36:00,884 ****************************************
+2022-03-10 00:36:00,884 ****************************************
+2022-03-10 00:36:00,884 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:36:00,950 Fetching Linkedin details if any
+2022-03-10 00:36:00,952 Fetching email details if any
+2022-03-10 00:36:00,953 Fetching github details if any
+2022-03-10 00:36:00,954 Fetching skills details 
+2022-03-10 00:36:00,956 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:36:01,338 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:36:01,705 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:36:01,705 ****************************************
+2022-03-10 00:36:01,705 ****************************************
+2022-03-10 00:36:01,705 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:36:01,705 Started extracting the details from pdf
+2022-03-10 00:36:01,709 Fetching Linkedin details if any
+2022-03-10 00:36:01,710 Fetching email details if any
+2022-03-10 00:36:01,710 Fetching github details if any
+2022-03-10 00:36:01,710 Fetching skills details 
+2022-03-10 00:36:01,712 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:36:02,158 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:36:02,432 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:36:02,432 ****************************************
+2022-03-10 00:36:02,432 ****************************************
+2022-03-10 00:36:02,432 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:36:02,433 Started extracting the details from pdf
+2022-03-10 00:36:02,620 Fetching Linkedin details if any
+2022-03-10 00:36:02,621 Fetching email details if any
+2022-03-10 00:36:02,621 Fetching github details if any
+2022-03-10 00:36:02,622 Fetching skills details 
+2022-03-10 00:36:02,625 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:36:03,143 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:36:03,437 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:36:03,437 ****************************************
+2022-03-10 00:36:03,437 ****************************************
+2022-03-10 00:36:03,437 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:36:03,437 Not in either acceptable pdf or docx format
+2022-03-10 00:36:03,437 Fetching Linkedin details if any
+2022-03-10 00:36:03,438 Fetching email details if any
+2022-03-10 00:36:03,438 Fetching github details if any
+2022-03-10 00:36:03,439 Fetching skills details 
+2022-03-10 00:36:03,441 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:36:03,829 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:36:04,170 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:36:04,170 ****************************************
+2022-03-10 00:36:04,170 ****************************************
+2022-03-10 00:36:04,170 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:36:04,171 Started extracting the details from pdf
+2022-03-10 00:36:04,174 Fetching Linkedin details if any
+2022-03-10 00:36:04,174 Fetching email details if any
+2022-03-10 00:36:04,174 Fetching github details if any
+2022-03-10 00:36:04,174 Fetching skills details 
+2022-03-10 00:36:04,177 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:36:04,539 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:36:04,836 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:36:04,836 ****************************************
+2022-03-10 00:36:04,839 Exception occurred during operations
+Traceback (most recent call last):
+  File "D:\resume-matching-assigning\main_program.py", line 78, in <module>
+    final_database['comments'] = comm
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\core\frame.py", line 3655, in __setitem__
+    self._set_item(key, value)
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\core\frame.py", line 3832, in _set_item
+    value = self._sanitize_column(value)
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\core\frame.py", line 4529, in _sanitize_column
+    com.require_length_match(value, self.index)
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\core\common.py", line 557, in require_length_match
+    raise ValueError(
+ValueError: Length of values (18) does not match length of index (20)
+2022-03-10 00:39:41,202 Started processing 
+2022-03-10 00:39:56,281 Started reading the resumes from path : D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master
+2022-03-10 00:39:56,283 ****************************************
+2022-03-10 00:39:56,283 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:39:56,327 Fetching Linkedin details if any
+2022-03-10 00:39:56,331 Fetching email details if any
+2022-03-10 00:39:56,332 Fetching github details if any
+2022-03-10 00:39:56,333 Fetching skills details 
+2022-03-10 00:39:56,336 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:39:57,265 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:39:57,863 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:39:57,863 ****************************************
+2022-03-10 00:39:57,863 ****************************************
+2022-03-10 00:39:57,863 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:39:57,899 Fetching Linkedin details if any
+2022-03-10 00:39:57,900 Fetching email details if any
+2022-03-10 00:39:57,901 Fetching github details if any
+2022-03-10 00:39:57,901 Fetching skills details 
+2022-03-10 00:39:57,904 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:39:58,460 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:39:58,912 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:39:58,912 ****************************************
+2022-03-10 00:39:58,912 ****************************************
+2022-03-10 00:39:58,912 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:39:58,913 Started extracting the details from pdf
+2022-03-10 00:39:59,470 Fetching Linkedin details if any
+2022-03-10 00:39:59,474 Fetching email details if any
+2022-03-10 00:39:59,476 Fetching github details if any
+2022-03-10 00:39:59,477 Fetching skills details 
+2022-03-10 00:39:59,480 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:00,468 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:01,358 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:40:01,358 ****************************************
+2022-03-10 00:40:01,358 ****************************************
+2022-03-10 00:40:01,358 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:40:01,358 Started extracting the details from pdf
+2022-03-10 00:40:01,787 Fetching Linkedin details if any
+2022-03-10 00:40:01,788 Fetching email details if any
+2022-03-10 00:40:01,789 Fetching github details if any
+2022-03-10 00:40:01,790 Fetching skills details 
+2022-03-10 00:40:01,793 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:02,511 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:02,986 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:40:02,986 ****************************************
+2022-03-10 00:40:02,986 ****************************************
+2022-03-10 00:40:02,986 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:40:02,986 Started extracting the details from pdf
+2022-03-10 00:40:03,824 Fetching Linkedin details if any
+2022-03-10 00:40:03,828 Fetching email details if any
+2022-03-10 00:40:03,829 Fetching github details if any
+2022-03-10 00:40:03,830 Fetching skills details 
+2022-03-10 00:40:03,832 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:04,422 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:05,071 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:40:05,072 ****************************************
+2022-03-10 00:40:05,073 ****************************************
+2022-03-10 00:40:05,073 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:40:05,085 Fetching Linkedin details if any
+2022-03-10 00:40:05,086 Fetching email details if any
+2022-03-10 00:40:05,086 Fetching github details if any
+2022-03-10 00:40:05,088 Fetching skills details 
+2022-03-10 00:40:05,090 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:05,688 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:06,124 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:40:06,145 ****************************************
+2022-03-10 00:40:06,146 ****************************************
+2022-03-10 00:40:06,146 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:40:06,176 Fetching Linkedin details if any
+2022-03-10 00:40:06,178 Fetching email details if any
+2022-03-10 00:40:06,179 Fetching github details if any
+2022-03-10 00:40:06,180 Fetching skills details 
+2022-03-10 00:40:06,187 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:06,894 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:07,393 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:40:07,394 ****************************************
+2022-03-10 00:40:07,394 ****************************************
+2022-03-10 00:40:07,394 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:40:07,395 Started extracting the details from pdf
+2022-03-10 00:40:07,455 Fetching Linkedin details if any
+2022-03-10 00:40:07,456 Fetching email details if any
+2022-03-10 00:40:07,456 Fetching github details if any
+2022-03-10 00:40:07,456 Fetching skills details 
+2022-03-10 00:40:07,459 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:08,059 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:08,415 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:40:08,415 ****************************************
+2022-03-10 00:40:08,415 ****************************************
+2022-03-10 00:40:08,415 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:40:08,415 Not in either acceptable pdf or docx format
+2022-03-10 00:40:08,415 Fetching Linkedin details if any
+2022-03-10 00:40:08,416 Fetching email details if any
+2022-03-10 00:40:08,416 Fetching github details if any
+2022-03-10 00:40:08,416 Fetching skills details 
+2022-03-10 00:40:08,421 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:08,959 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:09,278 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:40:09,278 ****************************************
+2022-03-10 00:40:09,278 ****************************************
+2022-03-10 00:40:09,278 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:40:09,325 Fetching Linkedin details if any
+2022-03-10 00:40:09,327 Fetching email details if any
+2022-03-10 00:40:09,328 Fetching github details if any
+2022-03-10 00:40:09,328 Fetching skills details 
+2022-03-10 00:40:09,331 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:10,015 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:10,599 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:40:10,600 ****************************************
+2022-03-10 00:40:10,600 ****************************************
+2022-03-10 00:40:10,600 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:40:10,600 Started extracting the details from pdf
+2022-03-10 00:40:10,635 Fetching Linkedin details if any
+2022-03-10 00:40:10,636 Fetching email details if any
+2022-03-10 00:40:10,636 Fetching github details if any
+2022-03-10 00:40:10,636 Fetching skills details 
+2022-03-10 00:40:10,639 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:11,138 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:11,431 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:40:11,431 ****************************************
+2022-03-10 00:40:11,431 ****************************************
+2022-03-10 00:40:11,432 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:40:11,432 Started extracting the details from pdf
+2022-03-10 00:40:11,498 Fetching Linkedin details if any
+2022-03-10 00:40:11,499 Fetching email details if any
+2022-03-10 00:40:11,499 Fetching github details if any
+2022-03-10 00:40:11,499 Fetching skills details 
+2022-03-10 00:40:11,501 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:12,194 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:12,703 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:40:12,703 ****************************************
+2022-03-10 00:40:12,704 ****************************************
+2022-03-10 00:40:12,704 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:40:12,704 Started extracting the details from pdf
+2022-03-10 00:40:13,146 Fetching Linkedin details if any
+2022-03-10 00:40:13,146 Fetching email details if any
+2022-03-10 00:40:13,146 Fetching github details if any
+2022-03-10 00:40:13,146 Fetching skills details 
+2022-03-10 00:40:13,149 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:13,602 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:13,936 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:40:13,937 ****************************************
+2022-03-10 00:40:13,937 ****************************************
+2022-03-10 00:40:13,937 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:40:13,937 Started extracting the details from pdf
+2022-03-10 00:40:14,805 Fetching Linkedin details if any
+2022-03-10 00:40:14,805 Fetching email details if any
+2022-03-10 00:40:14,805 Fetching github details if any
+2022-03-10 00:40:14,805 Fetching skills details 
+2022-03-10 00:40:14,808 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:15,189 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:15,463 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:40:15,463 ****************************************
+2022-03-10 00:40:15,463 ****************************************
+2022-03-10 00:40:15,464 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:40:15,464 Started extracting the details from pdf
+2022-03-10 00:40:15,958 Fetching Linkedin details if any
+2022-03-10 00:40:15,958 Fetching email details if any
+2022-03-10 00:40:15,958 Fetching github details if any
+2022-03-10 00:40:15,958 Fetching skills details 
+2022-03-10 00:40:15,960 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:16,424 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:16,752 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:40:16,753 ****************************************
+2022-03-10 00:40:16,753 ****************************************
+2022-03-10 00:40:16,753 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:40:16,807 Fetching Linkedin details if any
+2022-03-10 00:40:16,809 Fetching email details if any
+2022-03-10 00:40:16,809 Fetching github details if any
+2022-03-10 00:40:16,810 Fetching skills details 
+2022-03-10 00:40:16,813 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:17,267 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:17,612 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:40:17,612 ****************************************
+2022-03-10 00:40:17,613 ****************************************
+2022-03-10 00:40:17,613 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:40:17,613 Started extracting the details from pdf
+2022-03-10 00:40:17,617 Fetching Linkedin details if any
+2022-03-10 00:40:17,618 Fetching email details if any
+2022-03-10 00:40:17,618 Fetching github details if any
+2022-03-10 00:40:17,618 Fetching skills details 
+2022-03-10 00:40:17,620 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:18,097 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:18,430 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:40:18,430 ****************************************
+2022-03-10 00:40:18,430 ****************************************
+2022-03-10 00:40:18,430 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:40:18,430 Started extracting the details from pdf
+2022-03-10 00:40:18,555 Fetching Linkedin details if any
+2022-03-10 00:40:18,556 Fetching email details if any
+2022-03-10 00:40:18,556 Fetching github details if any
+2022-03-10 00:40:18,556 Fetching skills details 
+2022-03-10 00:40:18,559 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:18,970 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:19,316 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:40:19,317 ****************************************
+2022-03-10 00:40:19,317 ****************************************
+2022-03-10 00:40:19,317 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:40:19,317 Not in either acceptable pdf or docx format
+2022-03-10 00:40:19,317 Fetching Linkedin details if any
+2022-03-10 00:40:19,318 Fetching email details if any
+2022-03-10 00:40:19,318 Fetching github details if any
+2022-03-10 00:40:19,318 Fetching skills details 
+2022-03-10 00:40:19,321 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:19,722 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:20,044 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:40:20,044 ****************************************
+2022-03-10 00:40:20,045 ****************************************
+2022-03-10 00:40:20,045 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:40:20,045 Started extracting the details from pdf
+2022-03-10 00:40:20,048 Fetching Linkedin details if any
+2022-03-10 00:40:20,048 Fetching email details if any
+2022-03-10 00:40:20,048 Fetching github details if any
+2022-03-10 00:40:20,048 Fetching skills details 
+2022-03-10 00:40:20,050 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:20,451 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:20,716 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:40:20,716 ****************************************
+2022-03-10 00:40:20,738 Exception occurred during operations
+Traceback (most recent call last):
+  File "D:\resume-matching-assigning\main_program.py", line 81, in <module>
+    final_database.to_csv('final_result.csv',index=False)
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\core\generic.py", line 3563, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\io\formats\format.py", line 1180, in to_csv
+    csv_formatter.save()
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\io\formats\csvs.py", line 241, in save
+    with get_handle(
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\io\common.py", line 789, in get_handle
+    handle = open(
+PermissionError: [Errno 13] Permission denied: 'final_result.csv'
+2022-03-10 00:40:50,348 Started processing 
+2022-03-10 00:40:54,571 Started reading the resumes from path : D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master
+2022-03-10 00:40:54,573 ****************************************
+2022-03-10 00:40:54,573 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:40:54,620 Fetching Linkedin details if any
+2022-03-10 00:40:54,624 Fetching email details if any
+2022-03-10 00:40:54,625 Fetching github details if any
+2022-03-10 00:40:54,626 Fetching skills details 
+2022-03-10 00:40:54,629 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:55,038 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:55,603 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:40:55,603 ****************************************
+2022-03-10 00:40:55,603 ****************************************
+2022-03-10 00:40:55,603 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:40:55,638 Fetching Linkedin details if any
+2022-03-10 00:40:55,639 Fetching email details if any
+2022-03-10 00:40:55,640 Fetching github details if any
+2022-03-10 00:40:55,640 Fetching skills details 
+2022-03-10 00:40:55,643 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:56,047 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:56,415 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:40:56,416 ****************************************
+2022-03-10 00:40:56,416 ****************************************
+2022-03-10 00:40:56,416 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:40:56,416 Started extracting the details from pdf
+2022-03-10 00:40:56,974 Fetching Linkedin details if any
+2022-03-10 00:40:56,982 Fetching email details if any
+2022-03-10 00:40:56,984 Fetching github details if any
+2022-03-10 00:40:56,987 Fetching skills details 
+2022-03-10 00:40:56,989 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:57,390 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:58,010 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:40:58,010 ****************************************
+2022-03-10 00:40:58,010 ****************************************
+2022-03-10 00:40:58,010 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:40:58,011 Started extracting the details from pdf
+2022-03-10 00:40:58,457 Fetching Linkedin details if any
+2022-03-10 00:40:58,459 Fetching email details if any
+2022-03-10 00:40:58,459 Fetching github details if any
+2022-03-10 00:40:58,460 Fetching skills details 
+2022-03-10 00:40:58,462 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:40:59,004 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:40:59,399 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:40:59,400 ****************************************
+2022-03-10 00:40:59,400 ****************************************
+2022-03-10 00:40:59,400 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:40:59,400 Started extracting the details from pdf
+2022-03-10 00:41:00,293 Fetching Linkedin details if any
+2022-03-10 00:41:00,301 Fetching email details if any
+2022-03-10 00:41:00,302 Fetching github details if any
+2022-03-10 00:41:00,303 Fetching skills details 
+2022-03-10 00:41:00,306 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:00,793 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:01,389 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:41:01,390 ****************************************
+2022-03-10 00:41:01,390 ****************************************
+2022-03-10 00:41:01,390 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:41:01,407 Fetching Linkedin details if any
+2022-03-10 00:41:01,408 Fetching email details if any
+2022-03-10 00:41:01,409 Fetching github details if any
+2022-03-10 00:41:01,409 Fetching skills details 
+2022-03-10 00:41:01,413 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:01,814 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:02,142 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:41:02,143 ****************************************
+2022-03-10 00:41:02,143 ****************************************
+2022-03-10 00:41:02,143 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:41:02,157 Fetching Linkedin details if any
+2022-03-10 00:41:02,157 Fetching email details if any
+2022-03-10 00:41:02,157 Fetching github details if any
+2022-03-10 00:41:02,158 Fetching skills details 
+2022-03-10 00:41:02,161 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:02,589 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:02,874 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:41:02,874 ****************************************
+2022-03-10 00:41:02,874 ****************************************
+2022-03-10 00:41:02,874 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:41:02,874 Started extracting the details from pdf
+2022-03-10 00:41:02,922 Fetching Linkedin details if any
+2022-03-10 00:41:02,922 Fetching email details if any
+2022-03-10 00:41:02,923 Fetching github details if any
+2022-03-10 00:41:02,923 Fetching skills details 
+2022-03-10 00:41:02,927 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:03,816 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:04,240 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:41:04,240 ****************************************
+2022-03-10 00:41:04,240 ****************************************
+2022-03-10 00:41:04,240 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:41:04,240 Not in either acceptable pdf or docx format
+2022-03-10 00:41:04,240 Fetching Linkedin details if any
+2022-03-10 00:41:04,240 Fetching email details if any
+2022-03-10 00:41:04,241 Fetching github details if any
+2022-03-10 00:41:04,241 Fetching skills details 
+2022-03-10 00:41:04,244 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:04,702 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:05,030 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:41:05,031 ****************************************
+2022-03-10 00:41:05,031 ****************************************
+2022-03-10 00:41:05,031 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:41:05,101 Fetching Linkedin details if any
+2022-03-10 00:41:05,103 Fetching email details if any
+2022-03-10 00:41:05,104 Fetching github details if any
+2022-03-10 00:41:05,105 Fetching skills details 
+2022-03-10 00:41:05,109 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:05,529 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:05,909 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:41:05,909 ****************************************
+2022-03-10 00:41:05,909 ****************************************
+2022-03-10 00:41:05,909 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:41:05,909 Started extracting the details from pdf
+2022-03-10 00:41:05,954 Fetching Linkedin details if any
+2022-03-10 00:41:05,955 Fetching email details if any
+2022-03-10 00:41:05,955 Fetching github details if any
+2022-03-10 00:41:05,955 Fetching skills details 
+2022-03-10 00:41:05,958 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:06,315 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:06,538 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:41:06,538 ****************************************
+2022-03-10 00:41:06,538 ****************************************
+2022-03-10 00:41:06,538 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:41:06,538 Started extracting the details from pdf
+2022-03-10 00:41:06,606 Fetching Linkedin details if any
+2022-03-10 00:41:06,606 Fetching email details if any
+2022-03-10 00:41:06,606 Fetching github details if any
+2022-03-10 00:41:06,606 Fetching skills details 
+2022-03-10 00:41:06,611 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:07,090 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:07,374 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:41:07,374 ****************************************
+2022-03-10 00:41:07,375 ****************************************
+2022-03-10 00:41:07,375 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:41:07,375 Started extracting the details from pdf
+2022-03-10 00:41:08,055 Fetching Linkedin details if any
+2022-03-10 00:41:08,056 Fetching email details if any
+2022-03-10 00:41:08,056 Fetching github details if any
+2022-03-10 00:41:08,056 Fetching skills details 
+2022-03-10 00:41:08,059 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:08,477 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:08,726 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:41:08,726 ****************************************
+2022-03-10 00:41:08,726 ****************************************
+2022-03-10 00:41:08,726 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:41:08,726 Started extracting the details from pdf
+2022-03-10 00:41:09,587 Fetching Linkedin details if any
+2022-03-10 00:41:09,587 Fetching email details if any
+2022-03-10 00:41:09,587 Fetching github details if any
+2022-03-10 00:41:09,588 Fetching skills details 
+2022-03-10 00:41:09,590 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:10,223 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:10,644 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:41:10,644 ****************************************
+2022-03-10 00:41:10,644 ****************************************
+2022-03-10 00:41:10,644 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:41:10,644 Started extracting the details from pdf
+2022-03-10 00:41:11,084 Fetching Linkedin details if any
+2022-03-10 00:41:11,084 Fetching email details if any
+2022-03-10 00:41:11,085 Fetching github details if any
+2022-03-10 00:41:11,085 Fetching skills details 
+2022-03-10 00:41:11,088 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:11,537 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:11,814 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:41:11,814 ****************************************
+2022-03-10 00:41:11,814 ****************************************
+2022-03-10 00:41:11,815 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:41:11,870 Fetching Linkedin details if any
+2022-03-10 00:41:11,872 Fetching email details if any
+2022-03-10 00:41:11,873 Fetching github details if any
+2022-03-10 00:41:11,873 Fetching skills details 
+2022-03-10 00:41:11,876 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:12,344 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:12,720 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:41:12,720 ****************************************
+2022-03-10 00:41:12,720 ****************************************
+2022-03-10 00:41:12,720 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:41:12,721 Started extracting the details from pdf
+2022-03-10 00:41:12,724 Fetching Linkedin details if any
+2022-03-10 00:41:12,725 Fetching email details if any
+2022-03-10 00:41:12,725 Fetching github details if any
+2022-03-10 00:41:12,725 Fetching skills details 
+2022-03-10 00:41:12,727 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:13,110 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:13,454 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:41:13,454 ****************************************
+2022-03-10 00:41:13,454 ****************************************
+2022-03-10 00:41:13,454 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:41:13,454 Started extracting the details from pdf
+2022-03-10 00:41:13,612 Fetching Linkedin details if any
+2022-03-10 00:41:13,612 Fetching email details if any
+2022-03-10 00:41:13,613 Fetching github details if any
+2022-03-10 00:41:13,614 Fetching skills details 
+2022-03-10 00:41:13,616 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:14,076 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:14,492 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:41:14,492 ****************************************
+2022-03-10 00:41:14,492 ****************************************
+2022-03-10 00:41:14,492 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:41:14,493 Not in either acceptable pdf or docx format
+2022-03-10 00:41:14,493 Fetching Linkedin details if any
+2022-03-10 00:41:14,493 Fetching email details if any
+2022-03-10 00:41:14,494 Fetching github details if any
+2022-03-10 00:41:14,494 Fetching skills details 
+2022-03-10 00:41:14,497 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:14,937 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:15,297 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:41:15,297 ****************************************
+2022-03-10 00:41:15,297 ****************************************
+2022-03-10 00:41:15,297 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:41:15,297 Started extracting the details from pdf
+2022-03-10 00:41:15,301 Fetching Linkedin details if any
+2022-03-10 00:41:15,301 Fetching email details if any
+2022-03-10 00:41:15,301 Fetching github details if any
+2022-03-10 00:41:15,301 Fetching skills details 
+2022-03-10 00:41:15,304 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:41:15,756 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:41:16,014 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:41:16,015 ****************************************
+2022-03-10 00:41:16,040 Exception occurred during operations
+Traceback (most recent call last):
+  File "D:\resume-matching-assigning\main_program.py", line 81, in <module>
+    final_database.to_csv('final_result.csv',index=False)
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\core\generic.py", line 3563, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\io\formats\format.py", line 1180, in to_csv
+    csv_formatter.save()
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\io\formats\csvs.py", line 241, in save
+    with get_handle(
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\io\common.py", line 789, in get_handle
+    handle = open(
+PermissionError: [Errno 13] Permission denied: 'final_result.csv'
+2022-03-10 00:42:58,135 Started processing 
+2022-03-10 00:43:23,532 Started reading the resumes from path : D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master
+2022-03-10 00:43:23,534 ****************************************
+2022-03-10 00:43:23,534 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:43:23,579 Fetching Linkedin details if any
+2022-03-10 00:43:23,583 Fetching email details if any
+2022-03-10 00:43:23,584 Fetching github details if any
+2022-03-10 00:43:23,586 Fetching skills details 
+2022-03-10 00:43:23,590 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:24,020 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:24,639 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:43:24,639 ****************************************
+2022-03-10 00:43:24,639 ****************************************
+2022-03-10 00:43:24,639 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\12+.docx
+2022-03-10 00:43:24,670 Fetching Linkedin details if any
+2022-03-10 00:43:24,671 Fetching email details if any
+2022-03-10 00:43:24,671 Fetching github details if any
+2022-03-10 00:43:24,672 Fetching skills details 
+2022-03-10 00:43:24,675 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:25,151 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:25,514 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\12+.docx
+2022-03-10 00:43:25,515 ****************************************
+2022-03-10 00:43:25,515 ****************************************
+2022-03-10 00:43:25,515 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:43:25,515 Started extracting the details from pdf
+2022-03-10 00:43:25,984 Fetching Linkedin details if any
+2022-03-10 00:43:25,988 Fetching email details if any
+2022-03-10 00:43:25,989 Fetching github details if any
+2022-03-10 00:43:25,990 Fetching skills details 
+2022-03-10 00:43:25,993 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:26,369 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:26,933 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:43:26,933 ****************************************
+2022-03-10 00:43:26,933 ****************************************
+2022-03-10 00:43:26,933 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\15+.pdf
+2022-03-10 00:43:26,934 Started extracting the details from pdf
+2022-03-10 00:43:27,431 Fetching Linkedin details if any
+2022-03-10 00:43:27,435 Fetching email details if any
+2022-03-10 00:43:27,435 Fetching github details if any
+2022-03-10 00:43:27,436 Fetching skills details 
+2022-03-10 00:43:27,439 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:27,874 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:28,234 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\15+.pdf
+2022-03-10 00:43:28,234 ****************************************
+2022-03-10 00:43:28,234 ****************************************
+2022-03-10 00:43:28,234 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\20.pdf
+2022-03-10 00:43:28,234 Started extracting the details from pdf
+2022-03-10 00:43:29,035 Fetching Linkedin details if any
+2022-03-10 00:43:29,039 Fetching email details if any
+2022-03-10 00:43:29,039 Fetching github details if any
+2022-03-10 00:43:29,040 Fetching skills details 
+2022-03-10 00:43:29,043 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:29,673 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:30,299 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\20.pdf
+2022-03-10 00:43:30,299 ****************************************
+2022-03-10 00:43:30,299 ****************************************
+2022-03-10 00:43:30,299 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:43:30,317 Fetching Linkedin details if any
+2022-03-10 00:43:30,318 Fetching email details if any
+2022-03-10 00:43:30,318 Fetching github details if any
+2022-03-10 00:43:30,318 Fetching skills details 
+2022-03-10 00:43:30,321 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:31,541 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:31,733 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:43:31,733 ****************************************
+2022-03-10 00:43:31,733 ****************************************
+2022-03-10 00:43:31,733 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\3+.docx
+2022-03-10 00:43:31,744 Fetching Linkedin details if any
+2022-03-10 00:43:31,745 Fetching email details if any
+2022-03-10 00:43:31,745 Fetching github details if any
+2022-03-10 00:43:31,745 Fetching skills details 
+2022-03-10 00:43:31,749 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:32,952 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:33,358 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\3+.docx
+2022-03-10 00:43:33,358 ****************************************
+2022-03-10 00:43:33,358 ****************************************
+2022-03-10 00:43:33,358 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\3+.pdf
+2022-03-10 00:43:33,358 Started extracting the details from pdf
+2022-03-10 00:43:33,400 Fetching Linkedin details if any
+2022-03-10 00:43:33,400 Fetching email details if any
+2022-03-10 00:43:33,400 Fetching github details if any
+2022-03-10 00:43:33,400 Fetching skills details 
+2022-03-10 00:43:33,402 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:34,087 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:34,483 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\3+.pdf
+2022-03-10 00:43:34,483 ****************************************
+2022-03-10 00:43:34,483 ****************************************
+2022-03-10 00:43:34,483 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\4 .doc
+2022-03-10 00:43:34,483 Not in either acceptable pdf or docx format
+2022-03-10 00:43:34,484 Fetching Linkedin details if any
+2022-03-10 00:43:34,484 Fetching email details if any
+2022-03-10 00:43:34,484 Fetching github details if any
+2022-03-10 00:43:34,484 Fetching skills details 
+2022-03-10 00:43:34,488 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:35,064 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:35,460 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\4 .doc
+2022-03-10 00:43:35,460 ****************************************
+2022-03-10 00:43:35,460 ****************************************
+2022-03-10 00:43:35,460 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\4+.docx
+2022-03-10 00:43:35,511 Fetching Linkedin details if any
+2022-03-10 00:43:35,513 Fetching email details if any
+2022-03-10 00:43:35,514 Fetching github details if any
+2022-03-10 00:43:35,515 Fetching skills details 
+2022-03-10 00:43:35,518 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:36,035 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:36,517 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\4+.docx
+2022-03-10 00:43:36,517 ****************************************
+2022-03-10 00:43:36,517 ****************************************
+2022-03-10 00:43:36,517 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:43:36,518 Started extracting the details from pdf
+2022-03-10 00:43:36,566 Fetching Linkedin details if any
+2022-03-10 00:43:36,567 Fetching email details if any
+2022-03-10 00:43:36,567 Fetching github details if any
+2022-03-10 00:43:36,567 Fetching skills details 
+2022-03-10 00:43:36,570 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:37,116 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:37,466 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:43:37,466 ****************************************
+2022-03-10 00:43:37,466 ****************************************
+2022-03-10 00:43:37,467 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\5+.pdf
+2022-03-10 00:43:37,467 Started extracting the details from pdf
+2022-03-10 00:43:37,527 Fetching Linkedin details if any
+2022-03-10 00:43:37,527 Fetching email details if any
+2022-03-10 00:43:37,527 Fetching github details if any
+2022-03-10 00:43:37,527 Fetching skills details 
+2022-03-10 00:43:37,532 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:38,160 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:38,551 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\5+.pdf
+2022-03-10 00:43:38,552 ****************************************
+2022-03-10 00:43:38,552 ****************************************
+2022-03-10 00:43:38,552 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\5.pdf
+2022-03-10 00:43:38,552 Started extracting the details from pdf
+2022-03-10 00:43:39,202 error unable to extract from this pdf file
+2022-03-10 00:43:39,202 Fetching Linkedin details if any
+2022-03-10 00:43:39,202 Fetching email details if any
+2022-03-10 00:43:39,202 Fetching github details if any
+2022-03-10 00:43:39,202 Fetching skills details 
+2022-03-10 00:43:39,205 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:39,685 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:40,004 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\5.pdf
+2022-03-10 00:43:40,004 ****************************************
+2022-03-10 00:43:40,004 ****************************************
+2022-03-10 00:43:40,005 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\6+.pdf
+2022-03-10 00:43:40,005 Started extracting the details from pdf
+2022-03-10 00:43:40,880 Fetching Linkedin details if any
+2022-03-10 00:43:40,880 Fetching email details if any
+2022-03-10 00:43:40,880 Fetching github details if any
+2022-03-10 00:43:40,880 Fetching skills details 
+2022-03-10 00:43:40,883 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:42,034 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:42,183 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\6+.pdf
+2022-03-10 00:43:42,183 ****************************************
+2022-03-10 00:43:42,183 ****************************************
+2022-03-10 00:43:42,183 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\7+.pdf
+2022-03-10 00:43:42,183 Started extracting the details from pdf
+2022-03-10 00:43:42,573 Fetching Linkedin details if any
+2022-03-10 00:43:42,573 Fetching email details if any
+2022-03-10 00:43:42,573 Fetching github details if any
+2022-03-10 00:43:42,573 Fetching skills details 
+2022-03-10 00:43:42,575 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:43,523 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:44,000 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\7+.pdf
+2022-03-10 00:43:44,000 ****************************************
+2022-03-10 00:43:44,001 ****************************************
+2022-03-10 00:43:44,001 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\8+.docx
+2022-03-10 00:43:44,084 Fetching Linkedin details if any
+2022-03-10 00:43:44,089 Fetching email details if any
+2022-03-10 00:43:44,090 Fetching github details if any
+2022-03-10 00:43:44,091 Fetching skills details 
+2022-03-10 00:43:44,100 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:44,727 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:45,306 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\8+.docx
+2022-03-10 00:43:45,306 ****************************************
+2022-03-10 00:43:45,307 ****************************************
+2022-03-10 00:43:45,307 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\8+.pdf
+2022-03-10 00:43:45,307 Started extracting the details from pdf
+2022-03-10 00:43:45,314 Fetching Linkedin details if any
+2022-03-10 00:43:45,315 Fetching email details if any
+2022-03-10 00:43:45,315 Fetching github details if any
+2022-03-10 00:43:45,315 Fetching skills details 
+2022-03-10 00:43:45,319 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:45,915 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:46,260 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\8+.pdf
+2022-03-10 00:43:46,260 ****************************************
+2022-03-10 00:43:46,260 ****************************************
+2022-03-10 00:43:46,261 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:43:46,261 Started extracting the details from pdf
+2022-03-10 00:43:46,390 Fetching Linkedin details if any
+2022-03-10 00:43:46,391 Fetching email details if any
+2022-03-10 00:43:46,391 Fetching github details if any
+2022-03-10 00:43:46,392 Fetching skills details 
+2022-03-10 00:43:46,394 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:46,989 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:47,352 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:43:47,353 ****************************************
+2022-03-10 00:43:47,353 ****************************************
+2022-03-10 00:43:47,353 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:43:47,353 Not in either acceptable pdf or docx format
+2022-03-10 00:43:47,353 Fetching Linkedin details if any
+2022-03-10 00:43:47,354 Fetching email details if any
+2022-03-10 00:43:47,354 Fetching github details if any
+2022-03-10 00:43:47,354 Fetching skills details 
+2022-03-10 00:43:47,358 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:47,895 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:48,273 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:43:48,274 ****************************************
+2022-03-10 00:43:48,274 ****************************************
+2022-03-10 00:43:48,274 Started reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:43:48,274 Started extracting the details from pdf
+2022-03-10 00:43:48,280 Fetching Linkedin details if any
+2022-03-10 00:43:48,280 Fetching email details if any
+2022-03-10 00:43:48,280 Fetching github details if any
+2022-03-10 00:43:48,280 Fetching skills details 
+2022-03-10 00:43:48,284 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:43:49,473 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:43:49,567 finished reading resume D:/resume-matching-assigning/same-resume-year-wise-master/same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:43:49,567 ****************************************
+2022-03-10 00:43:49,585 Exception occurred during operations
+Traceback (most recent call last):
+  File "D:\resume-matching-assigning\main_program.py", line 81, in <module>
+    final_database.to_csv('final_result.csv',index=False)
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\core\generic.py", line 3563, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\io\formats\format.py", line 1180, in to_csv
+    csv_formatter.save()
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\io\formats\csvs.py", line 241, in save
+    with get_handle(
+  File "C:\Users\Admin\anaconda3\lib\site-packages\pandas\io\common.py", line 789, in get_handle
+    handle = open(
+PermissionError: [Errno 13] Permission denied: 'final_result.csv'
+2022-03-10 00:46:59,623 Started processing 
+2022-03-10 00:47:26,045 Started reading the resumes from path : D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master
+2022-03-10 00:47:26,048 ****************************************
+2022-03-10 00:47:26,049 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:47:26,108 Fetching Linkedin details if any
+2022-03-10 00:47:26,112 Fetching email details if any
+2022-03-10 00:47:26,114 Fetching github details if any
+2022-03-10 00:47:26,116 Fetching skills details 
+2022-03-10 00:47:26,119 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:26,987 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:27,478 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:47:27,478 ****************************************
+2022-03-10 00:47:27,478 ****************************************
+2022-03-10 00:47:27,478 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:47:27,517 Fetching Linkedin details if any
+2022-03-10 00:47:27,520 Fetching email details if any
+2022-03-10 00:47:27,521 Fetching github details if any
+2022-03-10 00:47:27,522 Fetching skills details 
+2022-03-10 00:47:27,526 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:27,964 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:28,321 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:47:28,321 ****************************************
+2022-03-10 00:47:28,321 ****************************************
+2022-03-10 00:47:28,321 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:47:28,321 Started extracting the details from pdf
+2022-03-10 00:47:28,963 Fetching Linkedin details if any
+2022-03-10 00:47:28,971 Fetching email details if any
+2022-03-10 00:47:28,972 Fetching github details if any
+2022-03-10 00:47:28,974 Fetching skills details 
+2022-03-10 00:47:28,977 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:29,417 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:29,997 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:47:29,998 ****************************************
+2022-03-10 00:47:29,998 ****************************************
+2022-03-10 00:47:29,998 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:47:29,998 Started extracting the details from pdf
+2022-03-10 00:47:30,308 Fetching Linkedin details if any
+2022-03-10 00:47:30,311 Fetching email details if any
+2022-03-10 00:47:30,311 Fetching github details if any
+2022-03-10 00:47:30,312 Fetching skills details 
+2022-03-10 00:47:30,315 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:30,715 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:31,062 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:47:31,062 ****************************************
+2022-03-10 00:47:31,062 ****************************************
+2022-03-10 00:47:31,062 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:47:31,062 Started extracting the details from pdf
+2022-03-10 00:47:31,787 Fetching Linkedin details if any
+2022-03-10 00:47:31,791 Fetching email details if any
+2022-03-10 00:47:31,792 Fetching github details if any
+2022-03-10 00:47:31,794 Fetching skills details 
+2022-03-10 00:47:31,797 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:32,174 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:32,732 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:47:32,732 ****************************************
+2022-03-10 00:47:32,732 ****************************************
+2022-03-10 00:47:32,732 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:47:32,747 Fetching Linkedin details if any
+2022-03-10 00:47:32,748 Fetching email details if any
+2022-03-10 00:47:32,748 Fetching github details if any
+2022-03-10 00:47:32,749 Fetching skills details 
+2022-03-10 00:47:32,751 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:33,089 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:33,348 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:47:33,348 ****************************************
+2022-03-10 00:47:33,348 ****************************************
+2022-03-10 00:47:33,348 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:47:33,362 Fetching Linkedin details if any
+2022-03-10 00:47:33,362 Fetching email details if any
+2022-03-10 00:47:33,363 Fetching github details if any
+2022-03-10 00:47:33,363 Fetching skills details 
+2022-03-10 00:47:33,366 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:33,774 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:34,056 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:47:34,056 ****************************************
+2022-03-10 00:47:34,057 ****************************************
+2022-03-10 00:47:34,057 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:47:34,057 Started extracting the details from pdf
+2022-03-10 00:47:34,106 Fetching Linkedin details if any
+2022-03-10 00:47:34,106 Fetching email details if any
+2022-03-10 00:47:34,106 Fetching github details if any
+2022-03-10 00:47:34,107 Fetching skills details 
+2022-03-10 00:47:34,109 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:34,523 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:34,892 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:47:34,893 ****************************************
+2022-03-10 00:47:34,893 ****************************************
+2022-03-10 00:47:34,893 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:47:34,893 Not in either acceptable pdf or docx format
+2022-03-10 00:47:34,893 Fetching Linkedin details if any
+2022-03-10 00:47:34,893 Fetching email details if any
+2022-03-10 00:47:34,893 Fetching github details if any
+2022-03-10 00:47:34,893 Fetching skills details 
+2022-03-10 00:47:34,896 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:35,624 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:36,089 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:47:36,089 ****************************************
+2022-03-10 00:47:36,089 ****************************************
+2022-03-10 00:47:36,090 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:47:36,147 Fetching Linkedin details if any
+2022-03-10 00:47:36,149 Fetching email details if any
+2022-03-10 00:47:36,150 Fetching github details if any
+2022-03-10 00:47:36,150 Fetching skills details 
+2022-03-10 00:47:36,153 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:36,584 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:37,004 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:47:37,004 ****************************************
+2022-03-10 00:47:37,005 ****************************************
+2022-03-10 00:47:37,005 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:47:37,005 Started extracting the details from pdf
+2022-03-10 00:47:37,068 Fetching Linkedin details if any
+2022-03-10 00:47:37,068 Fetching email details if any
+2022-03-10 00:47:37,068 Fetching github details if any
+2022-03-10 00:47:37,069 Fetching skills details 
+2022-03-10 00:47:37,072 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:37,552 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:37,858 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:47:37,859 ****************************************
+2022-03-10 00:47:37,859 ****************************************
+2022-03-10 00:47:37,859 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:47:37,859 Started extracting the details from pdf
+2022-03-10 00:47:37,947 Fetching Linkedin details if any
+2022-03-10 00:47:37,947 Fetching email details if any
+2022-03-10 00:47:37,948 Fetching github details if any
+2022-03-10 00:47:37,948 Fetching skills details 
+2022-03-10 00:47:37,951 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:38,370 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:38,615 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:47:38,615 ****************************************
+2022-03-10 00:47:38,615 ****************************************
+2022-03-10 00:47:38,615 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:47:38,616 Started extracting the details from pdf
+2022-03-10 00:47:39,264 Fetching Linkedin details if any
+2022-03-10 00:47:39,264 Fetching email details if any
+2022-03-10 00:47:39,264 Fetching github details if any
+2022-03-10 00:47:39,264 Fetching skills details 
+2022-03-10 00:47:39,269 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:39,696 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:40,055 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:47:40,055 ****************************************
+2022-03-10 00:47:40,055 ****************************************
+2022-03-10 00:47:40,055 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:47:40,056 Started extracting the details from pdf
+2022-03-10 00:47:41,060 Fetching Linkedin details if any
+2022-03-10 00:47:41,060 Fetching email details if any
+2022-03-10 00:47:41,061 Fetching github details if any
+2022-03-10 00:47:41,061 Fetching skills details 
+2022-03-10 00:47:41,063 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:41,468 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:41,718 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:47:41,720 ****************************************
+2022-03-10 00:47:41,720 ****************************************
+2022-03-10 00:47:41,720 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:47:41,720 Started extracting the details from pdf
+2022-03-10 00:47:42,210 Fetching Linkedin details if any
+2022-03-10 00:47:42,210 Fetching email details if any
+2022-03-10 00:47:42,210 Fetching github details if any
+2022-03-10 00:47:42,210 Fetching skills details 
+2022-03-10 00:47:42,213 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:42,575 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:42,798 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:47:42,799 ****************************************
+2022-03-10 00:47:42,799 ****************************************
+2022-03-10 00:47:42,799 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:47:42,855 Fetching Linkedin details if any
+2022-03-10 00:47:42,857 Fetching email details if any
+2022-03-10 00:47:42,857 Fetching github details if any
+2022-03-10 00:47:42,858 Fetching skills details 
+2022-03-10 00:47:42,887 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:43,316 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:43,682 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:47:43,682 ****************************************
+2022-03-10 00:47:43,682 ****************************************
+2022-03-10 00:47:43,682 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:47:43,683 Started extracting the details from pdf
+2022-03-10 00:47:43,686 Fetching Linkedin details if any
+2022-03-10 00:47:43,687 Fetching email details if any
+2022-03-10 00:47:43,687 Fetching github details if any
+2022-03-10 00:47:43,687 Fetching skills details 
+2022-03-10 00:47:43,689 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:44,179 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:44,487 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:47:44,487 ****************************************
+2022-03-10 00:47:44,487 ****************************************
+2022-03-10 00:47:44,487 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:47:44,487 Started extracting the details from pdf
+2022-03-10 00:47:44,622 Fetching Linkedin details if any
+2022-03-10 00:47:44,623 Fetching email details if any
+2022-03-10 00:47:44,624 Fetching github details if any
+2022-03-10 00:47:44,624 Fetching skills details 
+2022-03-10 00:47:44,627 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:45,088 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:45,427 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:47:45,427 ****************************************
+2022-03-10 00:47:45,427 ****************************************
+2022-03-10 00:47:45,427 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:47:45,427 Not in either acceptable pdf or docx format
+2022-03-10 00:47:45,428 Fetching Linkedin details if any
+2022-03-10 00:47:45,428 Fetching email details if any
+2022-03-10 00:47:45,428 Fetching github details if any
+2022-03-10 00:47:45,429 Fetching skills details 
+2022-03-10 00:47:45,431 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:45,885 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:46,224 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:47:46,225 ****************************************
+2022-03-10 00:47:46,225 ****************************************
+2022-03-10 00:47:46,225 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:47:46,225 Started extracting the details from pdf
+2022-03-10 00:47:46,229 Fetching Linkedin details if any
+2022-03-10 00:47:46,229 Fetching email details if any
+2022-03-10 00:47:46,229 Fetching github details if any
+2022-03-10 00:47:46,229 Fetching skills details 
+2022-03-10 00:47:46,233 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:47:46,692 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:47:47,032 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:47:47,032 ****************************************
+2022-03-10 00:52:21,511 Started processing 
+2022-03-10 00:52:36,557 Started reading the resumes from path : D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master
+2022-03-10 00:52:36,560 ****************************************
+2022-03-10 00:52:36,560 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:52:36,990 Fetching Linkedin details if any
+2022-03-10 00:52:36,993 Fetching email details if any
+2022-03-10 00:52:36,995 Fetching github details if any
+2022-03-10 00:52:36,997 Fetching skills details 
+2022-03-10 00:52:37,000 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:52:56,044 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:52:56,536 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:52:56,536 ****************************************
+2022-03-10 00:52:56,536 ****************************************
+2022-03-10 00:52:56,536 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:52:56,850 Fetching Linkedin details if any
+2022-03-10 00:52:56,852 Fetching email details if any
+2022-03-10 00:52:56,853 Fetching github details if any
+2022-03-10 00:52:56,854 Fetching skills details 
+2022-03-10 00:52:56,857 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:53:04,114 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:53:04,345 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:53:04,345 ****************************************
+2022-03-10 00:53:04,345 ****************************************
+2022-03-10 00:53:04,345 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:53:04,345 Started extracting the details from pdf
+2022-03-10 00:53:05,042 Fetching Linkedin details if any
+2022-03-10 00:53:05,052 Fetching email details if any
+2022-03-10 00:53:05,053 Fetching github details if any
+2022-03-10 00:53:05,055 Fetching skills details 
+2022-03-10 00:53:05,058 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:53:05,555 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:53:06,275 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:53:06,275 ****************************************
+2022-03-10 00:53:06,275 ****************************************
+2022-03-10 00:53:06,275 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:53:06,275 Started extracting the details from pdf
+2022-03-10 00:53:08,229 Fetching Linkedin details if any
+2022-03-10 00:53:08,234 Fetching email details if any
+2022-03-10 00:53:08,235 Fetching github details if any
+2022-03-10 00:53:08,238 Fetching skills details 
+2022-03-10 00:53:08,244 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:53:27,047 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:53:27,279 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:53:27,279 ****************************************
+2022-03-10 00:53:27,279 ****************************************
+2022-03-10 00:53:27,279 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:53:27,280 Started extracting the details from pdf
+2022-03-10 00:53:28,660 Fetching Linkedin details if any
+2022-03-10 00:53:28,664 Fetching email details if any
+2022-03-10 00:53:28,665 Fetching github details if any
+2022-03-10 00:53:28,666 Fetching skills details 
+2022-03-10 00:53:28,670 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:53:33,497 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:53:33,928 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:53:33,928 ****************************************
+2022-03-10 00:53:33,928 ****************************************
+2022-03-10 00:53:33,929 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:53:33,987 Fetching Linkedin details if any
+2022-03-10 00:53:33,988 Fetching email details if any
+2022-03-10 00:53:33,989 Fetching github details if any
+2022-03-10 00:53:33,989 Fetching skills details 
+2022-03-10 00:53:33,993 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:53:34,492 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:53:34,856 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:53:34,857 ****************************************
+2022-03-10 00:53:34,857 ****************************************
+2022-03-10 00:53:34,857 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:53:34,895 Fetching Linkedin details if any
+2022-03-10 00:53:34,896 Fetching email details if any
+2022-03-10 00:53:34,896 Fetching github details if any
+2022-03-10 00:53:34,897 Fetching skills details 
+2022-03-10 00:53:34,900 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:53:35,743 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:53:36,307 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:53:36,307 ****************************************
+2022-03-10 00:53:36,308 ****************************************
+2022-03-10 00:53:36,308 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:53:36,308 Started extracting the details from pdf
+2022-03-10 00:53:36,727 Fetching Linkedin details if any
+2022-03-10 00:53:36,727 Fetching email details if any
+2022-03-10 00:53:36,727 Fetching github details if any
+2022-03-10 00:53:36,727 Fetching skills details 
+2022-03-10 00:53:36,734 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:53:42,040 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:53:42,154 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:53:42,154 ****************************************
+2022-03-10 00:53:42,154 ****************************************
+2022-03-10 00:53:42,154 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:53:42,154 Not in either acceptable pdf or docx format
+2022-03-10 00:53:42,155 Fetching Linkedin details if any
+2022-03-10 00:53:42,155 Fetching email details if any
+2022-03-10 00:53:42,155 Fetching github details if any
+2022-03-10 00:53:42,155 Fetching skills details 
+2022-03-10 00:53:42,157 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:53:43,600 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:53:43,737 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:53:43,737 ****************************************
+2022-03-10 00:53:43,737 ****************************************
+2022-03-10 00:53:43,737 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:53:43,859 Fetching Linkedin details if any
+2022-03-10 00:53:43,862 Fetching email details if any
+2022-03-10 00:53:43,862 Fetching github details if any
+2022-03-10 00:53:43,863 Fetching skills details 
+2022-03-10 00:53:43,867 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:53:44,727 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:53:45,448 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:53:45,449 ****************************************
+2022-03-10 00:53:45,449 ****************************************
+2022-03-10 00:53:45,449 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:53:45,449 Started extracting the details from pdf
+2022-03-10 00:53:45,760 Fetching Linkedin details if any
+2022-03-10 00:53:45,760 Fetching email details if any
+2022-03-10 00:53:45,760 Fetching github details if any
+2022-03-10 00:53:45,760 Fetching skills details 
+2022-03-10 00:53:45,762 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:53:50,243 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:53:50,377 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:53:50,377 ****************************************
+2022-03-10 00:53:50,377 ****************************************
+2022-03-10 00:53:50,377 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:53:50,377 Started extracting the details from pdf
+2022-03-10 00:53:50,593 Fetching Linkedin details if any
+2022-03-10 00:53:50,593 Fetching email details if any
+2022-03-10 00:53:50,594 Fetching github details if any
+2022-03-10 00:53:50,594 Fetching skills details 
+2022-03-10 00:53:50,598 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:53:52,726 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:53:52,919 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:53:52,919 ****************************************
+2022-03-10 00:53:52,919 ****************************************
+2022-03-10 00:53:52,919 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:53:52,920 Started extracting the details from pdf
+2022-03-10 00:53:53,651 Fetching Linkedin details if any
+2022-03-10 00:53:53,651 Fetching email details if any
+2022-03-10 00:53:53,651 Fetching github details if any
+2022-03-10 00:53:53,651 Fetching skills details 
+2022-03-10 00:53:53,654 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:53:54,245 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:53:54,619 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:53:54,619 ****************************************
+2022-03-10 00:53:54,619 ****************************************
+2022-03-10 00:53:54,620 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:53:54,620 Started extracting the details from pdf
+2022-03-10 00:53:55,746 Fetching Linkedin details if any
+2022-03-10 00:53:55,746 Fetching email details if any
+2022-03-10 00:53:55,746 Fetching github details if any
+2022-03-10 00:53:55,746 Fetching skills details 
+2022-03-10 00:53:55,749 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:53:56,651 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:53:57,140 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:53:57,141 ****************************************
+2022-03-10 00:53:57,141 ****************************************
+2022-03-10 00:53:57,141 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:53:57,141 Started extracting the details from pdf
+2022-03-10 00:53:58,348 Fetching Linkedin details if any
+2022-03-10 00:53:58,349 Fetching email details if any
+2022-03-10 00:53:58,349 Fetching github details if any
+2022-03-10 00:53:58,349 Fetching skills details 
+2022-03-10 00:53:58,351 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:54:03,562 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:54:03,776 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:54:03,776 ****************************************
+2022-03-10 00:54:03,776 ****************************************
+2022-03-10 00:54:03,776 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:54:03,956 Fetching Linkedin details if any
+2022-03-10 00:54:03,958 Fetching email details if any
+2022-03-10 00:54:03,959 Fetching github details if any
+2022-03-10 00:54:03,960 Fetching skills details 
+2022-03-10 00:54:03,963 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:54:04,896 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:54:05,608 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:54:05,609 ****************************************
+2022-03-10 00:54:05,609 ****************************************
+2022-03-10 00:54:05,609 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:54:05,609 Started extracting the details from pdf
+2022-03-10 00:54:05,718 Fetching Linkedin details if any
+2022-03-10 00:54:05,718 Fetching email details if any
+2022-03-10 00:54:05,718 Fetching github details if any
+2022-03-10 00:54:05,719 Fetching skills details 
+2022-03-10 00:54:05,722 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:54:07,403 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:54:07,981 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:54:07,981 ****************************************
+2022-03-10 00:54:07,981 ****************************************
+2022-03-10 00:54:07,981 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:54:07,981 Started extracting the details from pdf
+2022-03-10 00:54:08,426 Fetching Linkedin details if any
+2022-03-10 00:54:08,428 Fetching email details if any
+2022-03-10 00:54:08,429 Fetching github details if any
+2022-03-10 00:54:08,430 Fetching skills details 
+2022-03-10 00:54:08,434 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:54:09,483 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:54:10,253 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:54:10,253 ****************************************
+2022-03-10 00:54:10,253 ****************************************
+2022-03-10 00:54:10,253 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:54:10,254 Not in either acceptable pdf or docx format
+2022-03-10 00:54:10,254 Fetching Linkedin details if any
+2022-03-10 00:54:10,256 Fetching email details if any
+2022-03-10 00:54:10,257 Fetching github details if any
+2022-03-10 00:54:10,259 Fetching skills details 
+2022-03-10 00:54:10,264 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:54:15,820 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:54:16,003 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:54:16,003 ****************************************
+2022-03-10 00:54:16,004 ****************************************
+2022-03-10 00:54:16,004 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:54:16,004 Started extracting the details from pdf
+2022-03-10 00:54:16,314 Fetching Linkedin details if any
+2022-03-10 00:54:16,314 Fetching email details if any
+2022-03-10 00:54:16,314 Fetching github details if any
+2022-03-10 00:54:16,314 Fetching skills details 
+2022-03-10 00:54:16,317 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:54:17,828 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:54:17,934 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:54:17,934 ****************************************
+2022-03-10 00:57:55,281 Started processing 
+2022-03-10 00:58:17,435 Started reading the resumes from path : D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master
+2022-03-10 00:58:17,438 ****************************************
+2022-03-10 00:58:17,438 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:58:17,843 Fetching Linkedin details if any
+2022-03-10 00:58:17,847 Fetching email details if any
+2022-03-10 00:58:17,849 Fetching github details if any
+2022-03-10 00:58:17,850 Fetching skills details 
+2022-03-10 00:58:17,853 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:58:26,710 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:58:27,235 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+ (2).docx
+2022-03-10 00:58:27,235 ****************************************
+2022-03-10 00:58:27,235 ****************************************
+2022-03-10 00:58:27,235 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:58:27,591 Fetching Linkedin details if any
+2022-03-10 00:58:27,594 Fetching email details if any
+2022-03-10 00:58:27,595 Fetching github details if any
+2022-03-10 00:58:27,596 Fetching skills details 
+2022-03-10 00:58:27,600 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:58:39,713 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:58:39,898 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\12+.docx
+2022-03-10 00:58:39,898 ****************************************
+2022-03-10 00:58:39,898 ****************************************
+2022-03-10 00:58:39,898 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:58:39,898 Started extracting the details from pdf
+2022-03-10 00:58:40,586 Fetching Linkedin details if any
+2022-03-10 00:58:40,591 Fetching email details if any
+2022-03-10 00:58:40,595 Fetching github details if any
+2022-03-10 00:58:40,601 Fetching skills details 
+2022-03-10 00:58:40,607 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:58:41,735 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:58:42,142 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+ (1).pdf
+2022-03-10 00:58:42,142 ****************************************
+2022-03-10 00:58:42,142 ****************************************
+2022-03-10 00:58:42,142 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:58:42,143 Started extracting the details from pdf
+2022-03-10 00:58:42,641 Fetching Linkedin details if any
+2022-03-10 00:58:42,642 Fetching email details if any
+2022-03-10 00:58:42,643 Fetching github details if any
+2022-03-10 00:58:42,644 Fetching skills details 
+2022-03-10 00:58:42,646 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:58:43,249 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:58:43,769 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\15+.pdf
+2022-03-10 00:58:43,769 ****************************************
+2022-03-10 00:58:43,769 ****************************************
+2022-03-10 00:58:43,769 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:58:43,769 Started extracting the details from pdf
+2022-03-10 00:58:44,574 Fetching Linkedin details if any
+2022-03-10 00:58:44,579 Fetching email details if any
+2022-03-10 00:58:44,580 Fetching github details if any
+2022-03-10 00:58:44,583 Fetching skills details 
+2022-03-10 00:58:44,585 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:58:45,005 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:58:45,523 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\20.pdf
+2022-03-10 00:58:45,523 ****************************************
+2022-03-10 00:58:45,523 ****************************************
+2022-03-10 00:58:45,523 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:58:45,591 Fetching Linkedin details if any
+2022-03-10 00:58:45,593 Fetching email details if any
+2022-03-10 00:58:45,594 Fetching github details if any
+2022-03-10 00:58:45,595 Fetching skills details 
+2022-03-10 00:58:45,601 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:58:46,397 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:58:46,885 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+ (2).docx
+2022-03-10 00:58:46,885 ****************************************
+2022-03-10 00:58:46,885 ****************************************
+2022-03-10 00:58:46,886 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:58:47,055 Fetching Linkedin details if any
+2022-03-10 00:58:47,056 Fetching email details if any
+2022-03-10 00:58:47,057 Fetching github details if any
+2022-03-10 00:58:47,057 Fetching skills details 
+2022-03-10 00:58:47,061 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:58:47,693 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:58:48,077 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.docx
+2022-03-10 00:58:48,077 ****************************************
+2022-03-10 00:58:48,077 ****************************************
+2022-03-10 00:58:48,077 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:58:48,077 Started extracting the details from pdf
+2022-03-10 00:58:48,168 Fetching Linkedin details if any
+2022-03-10 00:58:48,168 Fetching email details if any
+2022-03-10 00:58:48,168 Fetching github details if any
+2022-03-10 00:58:48,168 Fetching skills details 
+2022-03-10 00:58:48,171 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:58:48,806 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:58:49,159 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\3+.pdf
+2022-03-10 00:58:49,159 ****************************************
+2022-03-10 00:58:49,159 ****************************************
+2022-03-10 00:58:49,159 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:58:49,159 Not in either acceptable pdf or docx format
+2022-03-10 00:58:49,159 Fetching Linkedin details if any
+2022-03-10 00:58:49,159 Fetching email details if any
+2022-03-10 00:58:49,159 Fetching github details if any
+2022-03-10 00:58:49,159 Fetching skills details 
+2022-03-10 00:58:49,162 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:58:50,067 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:58:50,562 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4 .doc
+2022-03-10 00:58:50,562 ****************************************
+2022-03-10 00:58:50,562 ****************************************
+2022-03-10 00:58:50,562 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:58:50,695 Fetching Linkedin details if any
+2022-03-10 00:58:50,697 Fetching email details if any
+2022-03-10 00:58:50,697 Fetching github details if any
+2022-03-10 00:58:50,698 Fetching skills details 
+2022-03-10 00:58:50,700 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:58:51,489 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:58:52,148 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\4+.docx
+2022-03-10 00:58:52,148 ****************************************
+2022-03-10 00:58:52,148 ****************************************
+2022-03-10 00:58:52,148 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:58:52,148 Started extracting the details from pdf
+2022-03-10 00:58:52,293 Fetching Linkedin details if any
+2022-03-10 00:58:52,293 Fetching email details if any
+2022-03-10 00:58:52,293 Fetching github details if any
+2022-03-10 00:58:52,293 Fetching skills details 
+2022-03-10 00:58:52,296 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:58:52,993 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:58:53,399 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+ .pdf
+2022-03-10 00:58:53,399 ****************************************
+2022-03-10 00:58:53,400 ****************************************
+2022-03-10 00:58:53,400 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:58:53,400 Started extracting the details from pdf
+2022-03-10 00:58:53,512 Fetching Linkedin details if any
+2022-03-10 00:58:53,512 Fetching email details if any
+2022-03-10 00:58:53,512 Fetching github details if any
+2022-03-10 00:58:53,512 Fetching skills details 
+2022-03-10 00:58:53,515 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:58:54,241 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:58:54,595 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5+.pdf
+2022-03-10 00:58:54,595 ****************************************
+2022-03-10 00:58:54,595 ****************************************
+2022-03-10 00:58:54,595 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:58:54,595 Started extracting the details from pdf
+2022-03-10 00:58:55,352 Fetching Linkedin details if any
+2022-03-10 00:58:55,352 Fetching email details if any
+2022-03-10 00:58:55,352 Fetching github details if any
+2022-03-10 00:58:55,352 Fetching skills details 
+2022-03-10 00:58:55,354 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:58:56,129 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:58:56,599 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\5.pdf
+2022-03-10 00:58:56,599 ****************************************
+2022-03-10 00:58:56,599 ****************************************
+2022-03-10 00:58:56,599 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:58:56,599 Started extracting the details from pdf
+2022-03-10 00:58:57,732 Fetching Linkedin details if any
+2022-03-10 00:58:57,732 Fetching email details if any
+2022-03-10 00:58:57,732 Fetching github details if any
+2022-03-10 00:58:57,732 Fetching skills details 
+2022-03-10 00:58:57,735 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:58:59,375 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:58:59,493 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\6+.pdf
+2022-03-10 00:58:59,494 ****************************************
+2022-03-10 00:58:59,494 ****************************************
+2022-03-10 00:58:59,494 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:58:59,495 Started extracting the details from pdf
+2022-03-10 00:58:59,987 Fetching Linkedin details if any
+2022-03-10 00:58:59,987 Fetching email details if any
+2022-03-10 00:58:59,987 Fetching github details if any
+2022-03-10 00:58:59,988 Fetching skills details 
+2022-03-10 00:58:59,990 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:59:00,698 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:59:01,050 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\7+.pdf
+2022-03-10 00:59:01,050 ****************************************
+2022-03-10 00:59:01,050 ****************************************
+2022-03-10 00:59:01,050 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:59:01,180 Fetching Linkedin details if any
+2022-03-10 00:59:01,182 Fetching email details if any
+2022-03-10 00:59:01,182 Fetching github details if any
+2022-03-10 00:59:01,183 Fetching skills details 
+2022-03-10 00:59:01,185 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:59:01,904 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:59:02,494 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.docx
+2022-03-10 00:59:02,494 ****************************************
+2022-03-10 00:59:02,495 ****************************************
+2022-03-10 00:59:02,495 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:59:02,495 Started extracting the details from pdf
+2022-03-10 00:59:02,535 Fetching Linkedin details if any
+2022-03-10 00:59:02,536 Fetching email details if any
+2022-03-10 00:59:02,536 Fetching github details if any
+2022-03-10 00:59:02,536 Fetching skills details 
+2022-03-10 00:59:02,542 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:59:02,984 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:59:03,239 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\8+.pdf
+2022-03-10 00:59:03,239 ****************************************
+2022-03-10 00:59:03,240 ****************************************
+2022-03-10 00:59:03,240 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:59:03,240 Started extracting the details from pdf
+2022-03-10 00:59:03,358 Fetching Linkedin details if any
+2022-03-10 00:59:03,359 Fetching email details if any
+2022-03-10 00:59:03,359 Fetching github details if any
+2022-03-10 00:59:03,360 Fetching skills details 
+2022-03-10 00:59:03,362 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:59:03,941 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:59:04,331 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher .pdf
+2022-03-10 00:59:04,331 ****************************************
+2022-03-10 00:59:04,331 ****************************************
+2022-03-10 00:59:04,331 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:59:04,331 Not in either acceptable pdf or docx format
+2022-03-10 00:59:04,331 Fetching Linkedin details if any
+2022-03-10 00:59:04,332 Fetching email details if any
+2022-03-10 00:59:04,333 Fetching github details if any
+2022-03-10 00:59:04,333 Fetching skills details 
+2022-03-10 00:59:04,335 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:59:04,775 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:59:05,071 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\freasher 1.rtf
+2022-03-10 00:59:05,071 ****************************************
+2022-03-10 00:59:05,071 ****************************************
+2022-03-10 00:59:05,071 Started reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:59:05,071 Started extracting the details from pdf
+2022-03-10 00:59:05,095 Fetching Linkedin details if any
+2022-03-10 00:59:05,095 Fetching email details if any
+2022-03-10 00:59:05,095 Fetching github details if any
+2022-03-10 00:59:05,095 Fetching skills details 
+2022-03-10 00:59:05,098 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2022-03-10 00:59:05,544 https://raw.githubusercontent.com:443 "GET /microsoft/SkillsExtractorCognitiveSearch/master/data/skills.json HTTP/1.1" 200 347366
+2022-03-10 00:59:05,802 finished reading resume D:\resume-matching-assigning\same-resume-year-wise-master\same-resume-year-wise-master\mteh fresher.pdf
+2022-03-10 00:59:05,802 ****************************************
